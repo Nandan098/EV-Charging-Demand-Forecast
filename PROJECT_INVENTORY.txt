@@ -1,0 +1,76 @@
+.gitignore
+PROJECT_INVENTORY.txt
+README.md
+database/ev_charging.db
+docs/DATASET.md
+docs/PROJECT_REPORT.md
+docs/SETUP.md
+models/model_features.json
+models/xgboost_charging_demand.joblib
+models/xgboost_charging_demand_full.joblib
+notebooks/EV_Charging_Demand_Forecasting.ipynb
+outputs/charger_daily_summary.csv
+outputs/cleaned_charging_sessions.csv
+outputs/dim_charger.csv
+outputs/dim_user.csv
+outputs/fact_hourly_location_demand.csv
+outputs/model_predictions.csv
+outputs/model_training_dataset.csv
+outputs/next_7_day_forecast.csv
+outputs/sql_results/company_mix.csv
+outputs/sql_results/location_peak_hour.csv
+outputs/sql_results/location_performance.csv
+outputs/sql_results/monthly_demand.csv
+outputs/sql_results/overall_kpis.csv
+outputs/sql_results/peak_hours.csv
+outputs/sql_results/time_period_pattern.csv
+outputs/sql_results/top_chargers.csv
+outputs/sql_results/user_mix.csv
+outputs/sql_results/weekday_pattern.csv
+powerbi/README.md
+powerbi/dashboard_wireframe.md
+powerbi/data_dictionary.md
+powerbi/measures.dax
+raw/ChargingRecords.csv
+reports/actual_vs_predicted_last30days.png
+reports/avg_hourly_demand_selected_locations.png
+reports/data_quality_report.json
+reports/eda_demand_by_hour.png
+reports/eda_demand_by_location.png
+reports/eda_demand_describe.csv
+reports/eda_duration_describe.csv
+reports/eda_hour_summary.csv
+reports/eda_location_summary.csv
+reports/eda_weekday_summary.csv
+reports/feature_importance.csv
+reports/feature_importance_top15.png
+reports/hourly_total_demand_trend.png
+reports/model_metrics.csv
+reports/model_metrics.json
+reports/project_summary.txt
+requirements.txt
+source_material/Code/1. dataset upload.R
+source_material/Code/2. Data ststistics (EV charging sessions).R
+source_material/Code/3. Plotting charging probability profiles (EV charger).R
+source_material/Code/4. Plotting charging probability profiles (EV user).R
+source_material/Code/5. EV user statistics.R
+source_material/Code/6. Data generation (departure time, arrival time).R
+source_material_Code.zip
+sql/analysis.sql
+sql/schema.sql
+src/__pycache__/create_dimensions.cpython-313.pyc
+src/__pycache__/data_cleaning.cpython-313.pyc
+src/__pycache__/eda.cpython-313.pyc
+src/__pycache__/feature_engineering.cpython-313.pyc
+src/__pycache__/forecast_next_7_days.cpython-313.pyc
+src/__pycache__/load_sqlite.cpython-313.pyc
+src/__pycache__/train_model.cpython-313.pyc
+src/create_dimensions.py
+src/data_cleaning.py
+src/eda.py
+src/feature_engineering.py
+src/forecast_next_7_days.py
+src/load_sqlite.py
+src/run_pipeline.py
+src/run_sql_analysis.py
+src/train_model.py

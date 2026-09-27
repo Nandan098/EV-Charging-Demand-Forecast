@@ -1,0 +1,2119 @@
+ChargerID,ChargerCompany,ChargerCompanyType,Location,ChargerType,TotalSessions,TotalDemandKWh
+1,1,Own company,hotel,0,404,5790.57
+2,1,Own company,hotel,0,64,1158.72
+3,1,Own company,company,0,549,7701.15
+5,1,Own company,apartment,0,402,9424.57
+7,1,Own company,resort,0,30,337.83
+8,1,Own company,hotel,0,117,1655.82
+9,1,Own company,hotel,0,447,6619.36
+10,1,Own company,hotel,0,139,2508.27
+13,1,Own company,apartment,0,506,8125.23
+14,1,Own company,public area,0,150,1840.07
+15,1,Own company,company,0,46,644.2
+16,1,Own company,apartment,0,237,3270.5
+17,1,Own company,company,0,161,2680.12
+18,1,Own company,hotel,0,487,6365.4
+19,1,Own company,resort,0,509,10976.55
+20,1,Own company,resort,0,486,7586.61
+21,1,Own company,apartment,0,375,7673.9
+22,1,Own company,hotel,0,328,5259.5
+23,1,Own company,public area,0,150,4649.58
+24,1,Own company,public institution,0,114,2899.57
+25,1,Own company,hotel,0,658,9484.49
+26,1,Own company,public area,0,221,5943.66
+27,1,Own company,restaurant,0,100,2335.91
+28,1,Own company,apartment,0,124,2477.1
+29,1,Own company,resort,0,557,8135.15
+30,1,Own company,resort,0,530,8568.47
+32,1,Own company,hotel,0,105,1685.28
+33,1,Own company,apartment,0,513,8164.3099999999995
+34,1,Own company,restaurant,0,249,6247.8
+37,1,Own company,company,0,228,3776.9
+38,1,Own company,hotel,0,167,2109.3
+42,1,Own company,hotel,0,489,6708.22
+43,1,Own company,resort,0,184,3342.71
+44,1,Own company,apartment,0,226,2656.8
+45,1,Own company,company,0,144,2831.49
+46,1,Own company,hotel,0,225,4198.44
+48,1,Own company,apartment,0,102,2015.8
+49,1,Own company,public area,0,134,3186.69
+50,1,Own company,public area,0,111,1248.02
+52,1,Own company,apartment,0,354,7167.1
+54,1,Own company,resort,0,188,3529.54
+55,1,Own company,resort,0,152,3042.52
+56,1,Own company,public area,0,120,2308.7
+59,1,Own company,apartment,0,449,9483.35
+60,1,Own company,public area,0,17,249.48000000000002
+61,1,Own company,hotel,0,87,1057.4
+62,1,Own company,public area,0,109,910.27
+64,1,Own company,apartment,0,460,7488.3
+65,1,Own company,public area,0,138,1759.4
+66,1,Own company,resort,0,424,7444.33
+68,1,Own company,resort,0,139,2601.11
+69,1,Own company,apartment,0,482,8052.75
+72,1,Own company,accommodation,0,53,916.19
+73,1,Own company,public area,0,18,225.47
+74,1,Own company,apartment,0,107,2087.8
+76,1,Own company,resort,0,128,1901.0
+77,1,Own company,public institution,0,27,380.31
+79,1,Own company,resort,0,143,1925.8
+80,1,Own company,public area,0,394,7181.01
+81,1,Own company,company,0,60,779.84
+82,1,Own company,apartment,0,224,4164.43
+83,1,Own company,public area,0,201,5375.05
+84,1,Own company,public area,0,99,1611.86
+85,1,Own company,public area,0,52,867.1
+86,1,Own company,hotel,0,3,25.709999999999997
+87,1,Own company,resort,0,191,4042.63
+88,1,Own company,apartment,0,135,2492.1
+89,1,Own company,resort,0,192,4083.48
+90,1,Own company,public area,0,185,3135.39
+91,1,Own company,hotel,0,23,557.8
+92,1,Own company,apartment,0,100,1731.2
+93,1,Own company,company,0,71,864.4
+95,1,Own company,hotel,0,576,8900.14
+96,1,Own company,public area,0,164,4231.51
+97,1,Own company,hotel,0,13,292.42
+99,1,Own company,hotel,0,185,2729.46
+100,1,Own company,company,0,197,3622.18
+101,1,Own company,company,0,148,2308.9
+102,1,Own company,hotel,0,204,3125.17
+103,1,Own company,public institution,0,75,680.1999999999999
+104,1,Own company,hotel,0,162,1867.81
+105,1,Own company,hotel,0,185,2601.49
+107,1,Own company,public area,0,147,3994.57
+108,1,Own company,restaurant,0,65,1064.96
+109,1,Own company,hotel,0,91,1076.3
+110,1,Own company,golf,0,64,878.78
+111,1,Own company,hotel,0,37,872.36
+112,1,Own company,company,0,47,653.74
+113,1,Own company,resort,0,122,1331.56
+114,1,Own company,apartment,0,126,1699.4
+116,1,Own company,company,0,294,6031.68
+117,1,Own company,public area,0,191,2174.76
+118,1,Own company,public institution,0,220,5251.2
+119,1,Own company,public institution,0,15,206.56
+120,1,Own company,public area,0,17,322.32
+121,1,Own company,hotel,0,117,1734.52
+123,1,Own company,apartment,0,451,7570.35
+125,1,Own company,hotel,0,101,1699.88
+126,1,Own company,resort,0,302,6025.3
+127,1,Own company,resort,0,89,1471.47
+128,1,Own company,hotel,0,166,2337.9
+129,1,Own company,golf,0,117,1941.65
+130,1,Own company,golf,0,52,761.8100000000001
+132,1,Own company,public area,0,107,1195.09
+134,1,Own company,public institution,0,44,657.87
+136,1,Own company,hotel,0,120,1523.8
+137,1,Own company,public area,0,7,67.64999999999999
+139,1,Own company,public area,0,160,2448.66
+140,1,Own company,apartment,0,333,7413.51
+145,1,Own company,public area,0,74,1056.24
+146,1,Own company,company,0,97,1291.9
+147,1,Own company,public institution,0,78,675.64
+149,1,Own company,resort,0,157,2746.36
+150,1,Own company,resort,0,91,1264.71
+152,1,Own company,public institution,0,16,351.14
+153,1,Own company,public area,0,121,1295.4
+154,1,Own company,public area,0,309,7312.12
+155,1,Own company,apartment,0,122,2625.9
+156,1,Own company,hotel,0,30,452.17
+157,1,Own company,public institution,0,26,144.39000000000001
+158,1,Own company,public area,0,150,4184.46
+159,1,Own company,public area,0,78,781.3
+160,1,Own company,sightseeing,0,30,481.55
+161,1,Own company,public area,0,35,660.8
+162,1,Own company,resort,0,59,1688.1
+163,1,Own company,resort,0,648,11005.87
+164,1,Own company,resort,0,198,2299.55
+166,1,Own company,company,0,66,1009.5
+167,1,Own company,resort,0,53,751.22
+168,1,Own company,public area,0,190,3347.32
+170,1,Own company,public area,0,94,1040.79
+171,1,Own company,golf,0,146,3322.09
+172,1,Own company,hotel,0,69,1613.09
+173,1,Own company,public area,0,387,4693.52
+174,1,Own company,hotel,0,146,1879.76
+175,1,Own company,public area,0,103,2365.17
+176,1,Own company,public area,0,59,1652.7
+177,1,Own company,apartment,0,301,7004.74
+178,1,Own company,public area,0,116,1806.75
+180,1,Own company,company,0,28,256.3
+181,1,Own company,public area,0,51,741.8100000000001
+182,0,Other company,company,0,263,2783.62
+185,1,Own company,golf,0,94,1515.08
+187,1,Own company,company,0,71,1936.6299999999999
+188,1,Own company,public area,0,154,4312.7
+189,1,Own company,public institution,0,42,308.2
+190,1,Own company,company,0,284,3790.94
+191,1,Own company,resort,0,108,3034.49
+194,1,Own company,company,0,100,862.9
+195,1,Own company,resort,0,41,726.03
+198,1,Own company,restaurant,0,188,2413.98
+199,1,Own company,public institution,0,35,737.05
+200,1,Own company,apartment,0,297,7230.5
+202,1,Own company,hotel,0,131,1193.11
+203,1,Own company,company,0,106,2267.79
+204,1,Own company,company,0,108,1627.0
+205,1,Own company,public area,0,100,1966.68
+206,1,Own company,resort,0,97,2103.47
+208,1,Own company,golf,0,89,925.4
+210,1,Own company,hotel,0,47,710.19
+211,1,Own company,company,0,285,6610.82
+213,1,Own company,public area,0,98,1388.2
+214,1,Own company,public area,0,235,6638.44
+215,1,Own company,resort,0,51,1008.72
+217,1,Own company,hotel,0,144,2476.2
+219,1,Own company,public area,0,95,2010.66
+221,1,Own company,public area,0,66,1940.2
+222,1,Own company,company,0,92,1297.99
+224,1,Own company,public area,0,221,2203.96
+225,1,Own company,public area,0,49,472.4
+226,1,Own company,apartment,0,51,1688.6000000000001
+227,1,Own company,company,0,38,289.3
+230,1,Own company,public area,0,197,3204.35
+232,1,Own company,apartment,0,229,5322.6
+233,1,Own company,public area,0,60,667.3
+234,1,Own company,hotel,0,15,290.17
+235,1,Own company,public area,0,78,1386.5
+236,1,Own company,market,0,330,3547.98
+237,1,Own company,company,0,112,3025.13
+238,1,Own company,public area,0,214,5137.81
+242,1,Own company,golf,0,124,2469.29
+244,1,Own company,company,0,215,3032.17
+246,1,Own company,resort,0,12,121.63
+248,1,Own company,public institution,0,167,2599.06
+249,1,Own company,public institution,0,104,2937.14
+250,1,Own company,public area,0,174,5123.68
+251,1,Own company,market,0,95,3156.68
+252,1,Own company,public area,0,14,250.04
+253,1,Own company,resort,0,70,903.33
+254,1,Own company,restaurant,0,25,380.40999999999997
+257,1,Own company,company,0,27,239.57999999999998
+258,1,Own company,public area,0,47,971.37
+260,1,Own company,public institution,0,393,9542.07
+262,1,Own company,restaurant,0,248,3463.49
+263,1,Own company,hotel,0,101,1880.94
+264,1,Own company,hotel,0,425,5897.27
+265,1,Own company,public area,0,18,574.2
+267,1,Own company,company,0,84,1924.9
+269,0,Other company,company,0,76,820.01
+270,1,Own company,company,0,322,4521.04
+273,1,Own company,resort,0,576,9433.78
+274,1,Own company,resort,0,60,1505.93
+275,1,Own company,public area,0,56,420.1
+277,1,Own company,public area,0,154,2393.13
+278,1,Own company,apartment,0,90,2484.4
+279,1,Own company,hotel,0,14,144.0
+281,1,Own company,restaurant,0,61,1132.09
+283,0,Other company,resort,0,160,2766.2
+284,0,Other company,resort,0,237,4558.9
+285,0,Other company,hotel,0,58,1021.7
+286,0,Other company,hotel,0,47,881.0
+287,1,Own company,apartment,0,461,10884.0
+289,1,Own company,public area,0,32,199.24
+290,0,Other company,resort,0,59,935.28
+291,1,Own company,public institution,0,336,8397.61
+296,1,Own company,hotel,0,46,455.45
+298,1,Own company,public area,0,10,105.16
+300,0,Other company,hotel,0,278,4740.2
+301,0,Other company,resort,0,124,2296.0
+303,0,Other company,resort,0,269,4927.1
+304,0,Other company,resort,0,205,3675.2
+305,0,Other company,resort,0,96,3169.3
+306,1,Own company,apartment,0,213,2390.02
+307,1,Own company,public area,0,41,499.33
+308,1,Own company,company,0,226,2178.4
+309,1,Own company,golf,0,9,138.4
+310,1,Own company,restaurant,0,30,269.26
+311,1,Own company,public area,0,84,1372.97
+312,1,Own company,public area,0,58,1016.62
+315,1,Own company,resort,0,44,1002.21
+317,0,Other company,hotel,0,34,559.6
+319,0,Other company,public area,0,34,155.6
+320,1,Own company,camping,0,427,10294.49
+322,0,Other company,hotel,0,33,258.3
+326,1,Own company,public area,0,18,492.65
+327,1,Own company,market,0,443,3982.73
+328,0,Other company,hotel,0,28,495.6
+329,1,Own company,company,0,237,3429.28
+331,1,Own company,company,0,111,2221.31
+334,1,Own company,apartment,0,203,2492.65
+343,0,Other company,apartment,0,42,992.3
+347,0,Other company,apartment,0,79,2245.8
+348,1,Own company,public area,0,15,292.67
+349,1,Own company,hotel,0,41,711.69
+350,0,Other company,apartment,0,60,1678.7
+354,0,Other company,apartment,0,73,1317.5
+356,1,Own company,public area,0,48,858.82
+357,0,Other company,public area,0,67,1533.3
+358,0,Other company,public institution,0,2,51.16
+359,1,Own company,apartment,0,95,2077.46
+360,1,Own company,apartment,0,40,830.21
+361,0,Other company,public parking lot,1,18,199.56
+362,0,Other company,public institution,0,14,321.2
+363,0,Other company,public parking lot,1,20,384.93
+364,0,Other company,public area,1,32,521.51
+365,0,Other company,public area,1,6,75.34
+366,0,Other company,market,1,25,491.07
+367,0,Other company,company,1,1,12.36
+368,0,Other company,resort,0,11,219.1
+369,0,Other company,public area,1,46,701.01
+370,1,Own company,apartment,0,389,7484.25
+371,1,Own company,apartment,0,242,5071.67
+372,1,Own company,apartment,0,203,6099.92
+373,1,Own company,apartment,0,271,7754.06
+374,1,Own company,apartment,0,310,7899.59
+375,1,Own company,apartment,0,390,10585.07
+376,1,Own company,apartment,0,244,6735.69
+377,1,Own company,public area,0,221,8107.34
+378,0,Other company,public institution,1,11,180.29
+379,0,Other company,public parking lot,1,41,431.46
+380,0,Other company,public area,1,45,754.47
+381,0,Other company,public area,1,5,92.04
+382,0,Other company,public area,1,25,254.51
+383,0,Other company,restaurant,1,7,172.09
+384,0,Other company,public area,1,51,856.83
+385,0,Other company,public institution,1,24,447.05
+386,0,Other company,public institution,1,2,37.03
+387,0,Other company,public area,1,12,162.89
+388,0,Other company,public institution,1,7,180.16
+389,0,Other company,public institution,0,31,698.92
+390,0,Other company,apartment,0,15,288.5
+391,0,Other company,apartment,0,18,344.8
+392,0,Other company,public institution,0,5,82.41
+393,0,Other company,public institution,0,14,278.1
+394,0,Other company,public area,1,44,589.9300000000001
+395,0,Other company,public area,1,49,860.92
+396,0,Other company,apartment,0,29,384.19
+397,0,Other company,apartment,0,94,1067.51
+398,0,Other company,public institution,1,12,169.74
+399,0,Other company,company,1,20,444.35
+400,0,Other company,public area,1,143,1642.07
+401,0,Other company,public parking lot,1,58,751.54
+402,0,Other company,public institution,1,94,1567.25
+403,0,Other company,sightseeing,0,8,48.72
+404,0,Other company,sightseeing,0,4,46.75
+405,0,Other company,public parking lot,1,17,294.4
+406,0,Other company,apartment,0,9,37.42
+407,0,Other company,public institution,1,3,74.5
+408,0,Other company,apartment,0,3,20.2
+409,0,Other company,public area,1,12,247.24
+410,0,Other company,public institution,1,2,32.23
+411,0,Other company,sightseeing,1,14,346.2
+412,0,Other company,public parking lot,1,14,238.9
+413,0,Other company,public area,1,2,19.58
+414,0,Other company,sightseeing,0,26,228.85
+415,0,Other company,public area,1,54,600.12
+416,0,Other company,public institution,1,8,88.6
+417,0,Other company,public parking lot,1,13,141.95
+418,0,Other company,public institution,1,6,147.31
+419,0,Other company,restaurant,0,4,26.380000000000003
+420,0,Other company,apartment,0,1,18.22
+421,0,Other company,public area,1,8,110.28999999999999
+422,0,Other company,sightseeing,1,35,544.27
+423,0,Other company,public area,1,48,439.85
+424,0,Other company,public parking lot,1,26,234.59
+425,0,Other company,public parking lot,1,40,769.91
+426,0,Other company,public institution,0,35,584.8
+427,0,Other company,public institution,0,28,435.2
+428,0,Other company,resort,0,16,242.31
+429,0,Other company,public institution,0,32,472.2
+430,1,Own company,camping,0,353,9664.29
+431,1,Own company,camping,0,427,10353.58
+432,1,Own company,camping,0,63,1822.24
+433,1,Own company,camping,0,350,9292.44
+434,0,Other company,public institution,1,48,683.38
+435,0,Other company,public institution,1,54,1177.41
+436,0,Other company,public area,1,29,278.46
+437,0,Other company,public area,1,31,322.53
+438,0,Other company,public institution,1,9,131.93
+439,0,Other company,hotel,1,9,171.16
+440,0,Other company,restaurant,1,4,109.14999999999999
+441,0,Other company,public area,0,15,134.82
+442,0,Other company,public area,1,2,33.379999999999995
+443,0,Other company,public parking lot,1,13,189.55
+444,0,Other company,public area,1,6,110.41
+445,0,Other company,public area,1,45,846.42
+446,0,Other company,public institution,1,16,240.05
+447,0,Other company,public area,1,27,362.71
+448,0,Other company,public institution,1,13,123.0
+449,0,Other company,restaurant,1,71,2722.12
+450,0,Other company,public parking lot,1,16,381.3
+451,0,Other company,public parking lot,1,34,788.4
+452,0,Other company,public area,1,20,202.9
+453,0,Other company,public parking lot,1,56,456.37
+454,0,Other company,public parking lot,0,4,44.300000000000004
+455,0,Other company,hotel,0,16,227.24
+456,0,Other company,hotel,0,33,445.99
+457,0,Other company,public area,1,7,97.89
+458,0,Other company,public institution,1,8,130.33
+459,0,Other company,public institution,1,4,63.260000000000005
+460,0,Other company,public area,1,15,290.44
+461,0,Other company,public area,1,34,592.49
+462,0,Other company,public institution,0,10,125.1
+463,0,Other company,apartment,0,3,61.5
+464,0,Other company,public institution,1,62,728.63
+465,0,Other company,public institution,1,3,119.58
+466,0,Other company,public institution,1,2,35.32
+467,0,Other company,resort,1,15,265.65
+468,0,Other company,public institution,0,122,1029.9
+469,0,Other company,public institution,1,31,285.99
+470,0,Other company,apartment,1,3,51.339999999999996
+471,0,Other company,apartment,0,1,4.64
+472,0,Other company,company,1,11,225.02
+473,0,Other company,market,1,102,2529.27
+474,0,Other company,apartment,1,29,450.46999999999997
+475,1,Own company,public area,0,20,427.65
+477,1,Own company,apartment,0,20,269.2
+479,1,Own company,hotel,0,23,283.61
+481,1,Own company,golf,0,44,937.5
+482,1,Own company,company,0,63,928.3000000000001
+483,1,Own company,hotel,0,173,2470.6
+489,1,Own company,restaurant,0,35,326.27
+491,1,Own company,company,0,104,2150.58
+492,1,Own company,company,0,174,2639.03
+495,0,Other company,resort,1,25,448.79
+496,0,Other company,public area,0,6,89.53
+497,0,Other company,market,1,2,57.379999999999995
+498,0,Other company,public area,0,9,145.4
+499,0,Other company,public parking lot,1,2,35.18
+500,0,Other company,restaurant,0,3,17.22
+501,0,Other company,sightseeing,1,7,99.63
+502,0,Other company,public parking lot,1,3,43.29
+503,0,Other company,public parking lot,1,37,621.53
+504,0,Other company,public institution,1,9,213.46
+505,0,Other company,resort,0,9,116.38
+506,0,Other company,resort,1,13,392.1
+507,0,Other company,public area,1,11,260.39
+508,0,Other company,public area,1,39,748.36
+509,0,Other company,public area,1,8,153.66
+510,0,Other company,resort,1,7,128.96
+511,0,Other company,public institution,1,17,290.28
+512,1,Own company,public area,0,268,4597.2
+513,1,Own company,public area,0,348,4254.2
+514,0,Other company,resort,0,15,154.58
+515,0,Other company,sightseeing,0,20,214.6
+516,0,Other company,hotel,1,7,84.28999999999999
+517,0,Other company,public parking lot,0,9,144.38
+518,0,Other company,sightseeing,0,10,75.8
+519,1,Own company,public area,0,35,618.34
+520,1,Own company,public area,0,21,439.76
+521,0,Other company,public area,1,9,176.09
+522,0,Other company,public parking lot,1,69,1301.37
+523,0,Other company,public area,1,9,265.13
+524,0,Other company,public parking lot,1,26,537.22
+525,0,Other company,restaurant,1,12,246.93
+526,0,Other company,restaurant,0,8,59.019999999999996
+527,0,Other company,public area,0,1,22.68
+528,0,Other company,public area,1,6,172.94
+529,0,Other company,sightseeing,0,2,14.2
+530,0,Other company,public parking lot,1,87,1718.82
+531,0,Other company,hotel,1,26,406.6
+532,0,Other company,public area,1,36,479.46
+533,0,Other company,public area,1,50,1072.97
+534,0,Other company,public parking lot,1,12,152.0
+535,0,Other company,public institution,1,1,11.78
+536,0,Other company,public area,1,10,260.44
+537,0,Other company,public parking lot,1,5,33.56
+538,0,Other company,public parking lot,1,11,149.48
+539,0,Other company,sightseeing,1,26,795.38
+540,0,Other company,public area,1,12,182.02
+541,0,Other company,public parking lot,1,78,1694.92
+542,0,Other company,resort,0,12,224.01999999999998
+543,0,Other company,public area,1,13,322.04
+544,0,Other company,market,1,27,826.07
+545,0,Other company,public institution,0,11,216.76
+546,0,Other company,public parking lot,1,8,206.76
+548,0,Other company,public institution,0,50,512.4
+549,0,Other company,public area,1,22,317.43
+550,0,Other company,public institution,1,35,652.19
+551,0,Other company,public institution,0,73,726.6
+552,0,Other company,public institution,0,61,647.9
+553,0,Other company,public institution,0,19,323.2
+554,0,Other company,public institution,1,28,428.65999999999997
+555,0,Other company,public institution,0,52,785.7
+556,0,Other company,public institution,0,35,365.8
+557,0,Other company,public institution,0,45,574.6
+558,0,Other company,public area,1,4,67.19
+559,0,Other company,public institution,1,36,466.75
+560,0,Other company,public institution,1,8,110.47
+561,0,Other company,public institution,1,20,288.49
+562,0,Other company,public institution,1,5,72.45
+563,0,Other company,public institution,1,12,235.18
+564,0,Other company,public area,1,18,266.77
+565,0,Other company,public area,1,99,1449.93
+566,0,Other company,public institution,1,7,184.95
+567,0,Other company,public institution,1,35,475.82
+568,0,Other company,public institution,1,18,346.63
+569,0,Other company,restaurant,0,66,482.41
+570,0,Other company,public institution,1,21,187.56
+571,1,Own company,company,0,153,2344.03
+572,0,Other company,apartment,0,41,379.4
+573,1,Own company,market,0,674,8737.48
+574,0,Other company,resort,0,7,78.22
+575,0,Other company,resort,0,10,76.45
+576,0,Other company,resort,0,6,77.82000000000001
+577,0,Other company,sightseeing,0,35,251.2
+578,1,Own company,apartment,0,175,2082.6
+579,1,Own company,apartment,0,195,2094.4
+580,1,Own company,apartment,0,201,2150.67
+581,1,Own company,apartment,0,180,2010.64
+582,0,Other company,public institution,1,17,448.55
+586,0,Other company,sightseeing,0,7,27.5
+587,0,Other company,public area,1,11,259.03999999999996
+588,0,Other company,sightseeing,1,3,68.11
+589,0,Other company,sightseeing,0,19,108.51
+590,0,Other company,market,1,20,488.94
+592,0,Other company,sightseeing,1,88,1507.19
+595,0,Other company,sightseeing,1,5,124.18
+596,0,Other company,public parking lot,1,27,566.13
+598,0,Other company,public area,1,19,356.98
+599,0,Other company,resort,0,10,117.84
+601,0,Other company,public parking lot,1,6,160.34
+602,0,Other company,sightseeing,1,17,232.74
+604,0,Other company,public parking lot,1,16,330.91
+606,0,Other company,resort,1,9,295.59
+607,0,Other company,company,1,85,1292.82
+608,0,Other company,public parking lot,1,4,95.49000000000001
+609,0,Other company,sightseeing,1,13,121.57
+611,0,Other company,restaurant,0,11,64.2
+612,0,Other company,public area,1,17,191.78
+613,0,Other company,hotel,0,165,2005.3799999999999
+614,0,Other company,public area,0,5,62.239999999999995
+618,0,Other company,public institution,0,7,105.7
+619,0,Other company,public parking lot,1,58,1126.35
+620,0,Other company,public parking lot,0,6,78.99000000000001
+621,0,Other company,restaurant,1,20,571.5699999999999
+622,0,Other company,public parking lot,1,14,269.62
+623,0,Other company,public area,1,17,250.67000000000002
+624,0,Other company,public parking lot,1,37,666.52
+625,0,Other company,resort,0,12,217.34
+626,0,Other company,public area,0,1,6.35
+627,0,Other company,public parking lot,1,22,304.68
+628,0,Other company,public institution,0,1,13.02
+629,0,Other company,resort,0,9,52.44
+630,0,Other company,apartment,0,38,375.1
+631,0,Other company,hotel,0,12,117.85000000000001
+632,0,Other company,apartment,0,9,88.0
+633,0,Other company,public institution,0,5,66.2
+634,0,Other company,apartment,0,14,133.81
+635,0,Other company,public institution,0,12,492.0
+636,0,Other company,apartment,0,2,6.1
+637,0,Other company,apartment,0,1,6.2
+638,0,Other company,public area,0,10,48.89
+639,0,Other company,company,1,9,224.37
+640,0,Other company,company,1,62,1063.56
+641,0,Other company,public institution,1,33,1025.01
+642,0,Other company,company,1,44,770.69
+643,0,Other company,public area,1,29,644.95
+644,0,Other company,restaurant,1,36,441.1
+645,0,Other company,sightseeing,1,29,480.83
+646,0,Other company,public institution,0,116,1314.6
+647,0,Other company,hotel,1,3,37.620000000000005
+648,0,Other company,public institution,1,11,293.48
+649,0,Other company,hotel,1,1,16.08
+650,0,Other company,public institution,1,4,80.9
+651,0,Other company,public area,1,41,575.74
+652,0,Other company,company,1,6,98.23
+653,0,Other company,public institution,0,3,74.69999999999999
+654,0,Other company,company,1,4,84.56
+655,0,Other company,hotel,1,2,34.1
+656,0,Other company,hotel,1,9,117.5
+657,0,Other company,public parking lot,1,9,156.93
+658,0,Other company,public institution,1,4,63.63
+659,0,Other company,sightseeing,0,6,48.7
+660,0,Other company,public institution,1,34,1226.77
+661,0,Other company,company,1,4,66.73
+662,1,Own company,company,0,159,2632.63
+663,1,Own company,company,0,185,2578.03
+664,1,Own company,company,0,166,2695.59
+665,1,Own company,company,0,135,2873.46
+666,1,Own company,company,0,161,2651.05
+667,1,Own company,company,0,163,2807.46
+668,0,Other company,market,1,13,396.4
+669,0,Other company,sightseeing,1,14,239.05
+670,0,Other company,public area,1,35,430.6
+671,0,Other company,sightseeing,1,11,219.17000000000002
+672,0,Other company,public area,1,89,3022.66
+673,0,Other company,market,1,11,343.0
+674,0,Other company,public area,1,39,994.51
+675,0,Other company,restaurant,1,18,491.4
+676,0,Other company,restaurant,1,12,241.6
+677,0,Other company,public parking lot,1,34,688.79
+678,0,Other company,public parking lot,1,22,341.01
+679,0,Other company,market,1,10,218.06
+680,0,Other company,public parking lot,1,19,348.15999999999997
+681,0,Other company,public institution,1,5,50.83
+682,0,Other company,public parking lot,1,29,467.90999999999997
+683,0,Other company,sightseeing,1,32,639.17
+684,0,Other company,public parking lot,1,9,202.65
+685,0,Other company,public area,1,16,327.0
+686,0,Other company,public area,1,51,643.47
+687,0,Other company,public parking lot,1,12,200.77
+688,0,Other company,public parking lot,1,14,276.8
+689,0,Other company,market,1,17,532.21
+690,0,Other company,public area,1,2,42.410000000000004
+691,0,Other company,public institution,1,2,28.009999999999998
+692,0,Other company,public area,1,7,83.39
+693,0,Other company,public area,1,9,179.97
+694,0,Other company,restaurant,0,4,20.35
+695,0,Other company,restaurant,0,5,39.6
+696,0,Other company,public area,1,4,112.46000000000001
+697,0,Other company,public area,1,12,142.24
+698,0,Other company,public area,1,1,21.59
+699,0,Other company,public parking lot,0,44,300.68
+700,0,Other company,public area,1,10,138.32
+701,0,Other company,market,1,35,204.55
+702,0,Other company,market,1,9,237.09
+703,0,Other company,restaurant,0,146,1418.86
+704,0,Other company,company,0,27,159.56
+705,0,Other company,resort,0,9,115.5
+706,0,Other company,resort,0,24,301.82
+707,0,Other company,company,0,9,86.8
+708,0,Other company,resort,0,8,148.97
+709,0,Other company,apartment,0,1,1.18
+710,0,Other company,company,0,8,53.75
+711,0,Other company,company,0,8,107.48
+712,0,Other company,resort,0,15,62.48
+713,0,Other company,public area,0,4,28.7
+714,0,Other company,public institution,0,78,1117.6
+715,0,Other company,resort,0,17,107.94
+716,0,Other company,resort,0,14,146.82999999999998
+717,0,Other company,resort,0,8,164.79999999999998
+718,0,Other company,resort,0,18,303.16
+719,0,Other company,public area,0,188,1623.8
+720,0,Other company,public institution,0,3,49.6
+721,0,Other company,public institution,0,2,3.0999999999999996
+722,0,Other company,public area,0,1,3.25
+723,0,Other company,public institution,0,21,395.3
+724,0,Other company,public institution,0,46,790.7
+725,0,Other company,public institution,1,11,204.91
+726,0,Other company,public area,1,7,29.23
+727,0,Other company,public institution,0,13,235.0
+728,0,Other company,public parking lot,1,56,726.88
+729,0,Other company,company,1,20,362.08
+730,0,Other company,public area,0,8,58.96
+731,0,Other company,apartment,1,28,749.82
+732,0,Other company,public institution,1,124,3136.2799999999997
+733,0,Other company,public institution,0,49,490.90000000000003
+734,0,Other company,hotel,1,7,54.86
+735,0,Other company,apartment,0,59,1240.78
+736,0,Other company,hotel,1,7,191.63
+737,0,Other company,resort,0,14,206.66
+738,0,Other company,apartment,0,134,2318.95
+739,0,Other company,public area,0,5,44.760000000000005
+740,0,Other company,apartment,0,39,518.72
+741,0,Other company,apartment,0,74,1819.45
+742,0,Other company,public area,0,4,14.16
+743,0,Other company,public area,0,5,46.67
+744,0,Other company,public area,0,4,46.97
+745,0,Other company,apartment,1,29,544.58
+746,0,Other company,public parking lot,1,18,181.76
+747,0,Other company,apartment,1,26,471.86
+748,0,Other company,public institution,0,3,1.9
+749,0,Other company,public parking lot,1,7,89.55
+750,0,Other company,public institution,1,1,7.64
+751,0,Other company,apartment,0,56,982.0
+752,0,Other company,public area,1,6,108.09
+753,0,Other company,market,1,11,271.89
+754,0,Other company,apartment,0,28,462.74
+755,0,Other company,public institution,1,14,335.36
+756,0,Other company,public area,1,6,128.46
+759,0,Other company,public area,1,17,263.54
+760,0,Other company,public area,1,29,510.40999999999997
+761,0,Other company,market,1,6,163.07
+762,0,Other company,public institution,1,11,136.75
+763,0,Other company,public institution,1,25,268.13
+764,1,Own company,public institution,0,16,229.04
+765,0,Other company,market,1,28,401.92
+766,0,Other company,public institution,1,29,581.15
+767,0,Other company,market,1,5,109.93
+768,0,Other company,hotel,1,23,420.15
+769,0,Other company,public area,1,16,233.18
+770,0,Other company,public parking lot,1,37,1370.66
+771,0,Other company,public area,1,24,586.9399999999999
+772,0,Other company,market,1,2,28.08
+773,0,Other company,restaurant,1,37,1054.28
+774,0,Other company,market,1,22,404.35
+775,0,Other company,market,1,11,171.22
+776,0,Other company,company,1,16,391.89
+777,0,Other company,public institution,1,10,112.89999999999999
+778,0,Other company,market,1,8,268.18
+779,0,Other company,market,1,29,714.4399999999999
+780,0,Other company,market,1,8,233.62
+781,0,Other company,sightseeing,1,6,179.56
+782,0,Other company,hotel,0,8,45.25
+783,0,Other company,apartment,0,126,768.11
+784,0,Other company,apartment,0,24,140.68
+785,0,Other company,apartment,0,10,67.76
+786,0,Other company,apartment,0,5,41.19
+787,0,Other company,restaurant,0,8,52.41
+788,0,Other company,sightseeing,0,3,36.6
+789,0,Other company,public parking lot,1,16,146.2
+791,0,Other company,apartment,0,25,374.74
+792,0,Other company,restaurant,0,163,2311.12
+793,0,Other company,resort,0,2,10.28
+794,0,Other company,public institution,0,1,8.1
+795,0,Other company,public institution,0,1,8.0
+796,0,Other company,public institution,0,3,32.1
+797,0,Other company,sightseeing,0,3,20.07
+798,0,Other company,sightseeing,0,2,14.5
+799,0,Other company,resort,0,19,123.15
+800,0,Other company,public institution,0,1,7.4
+801,0,Other company,public institution,0,4,58.099999999999994
+802,0,Other company,apartment,0,2,2.88
+803,0,Other company,sightseeing,0,5,22.88
+804,0,Other company,public institution,0,2,2.7
+805,0,Other company,company,0,3,19.72
+806,0,Other company,public institution,0,2,17.9
+807,0,Other company,apartment,0,1,7.59
+808,0,Other company,public institution,0,1,5.55
+809,1,Own company,hotel,0,7,140.37
+810,0,Other company,resort,0,6,131.76
+811,0,Other company,public area,0,18,158.3
+812,0,Other company,public parking lot,0,3,35.6
+813,0,Other company,public institution,0,6,21.0
+814,0,Other company,public institution,0,4,37.9
+815,0,Other company,public institution,0,9,87.60000000000001
+816,0,Other company,public institution,0,23,167.7
+817,0,Other company,hotel,0,53,691.09
+818,0,Other company,camping,0,1,2.8
+819,0,Other company,public area,0,14,160.9
+820,0,Other company,public institution,0,4,41.1
+821,0,Other company,public institution,0,9,133.8
+822,0,Other company,company,0,1,0.19
+823,0,Other company,sightseeing,0,9,83.45
+824,0,Other company,resort,0,9,107.14
+825,0,Other company,restaurant,0,3,17.1
+826,0,Other company,public area,1,22,323.13
+827,0,Other company,public area,1,57,912.76
+828,0,Other company,public parking lot,1,2,19.1
+829,0,Other company,public institution,1,15,251.04
+830,0,Other company,public area,0,16,109.12
+831,0,Other company,public parking lot,1,5,37.089999999999996
+832,0,Other company,sightseeing,1,15,161.84
+833,0,Other company,market,1,21,251.31
+834,0,Other company,public institution,1,14,235.98000000000002
+835,0,Other company,market,1,18,215.57
+836,0,Other company,public parking lot,1,9,120.69999999999999
+837,0,Other company,apartment,1,2,31.23
+838,0,Other company,public institution,1,7,48.22
+839,0,Other company,public institution,1,13,162.04
+840,0,Other company,company,1,22,170.95
+841,0,Other company,public area,1,29,958.35
+842,0,Other company,public area,1,21,468.77
+843,0,Other company,public parking lot,1,11,113.79
+844,0,Other company,sightseeing,1,20,354.48
+845,0,Other company,market,1,61,650.83
+846,0,Other company,public area,1,9,158.9
+847,0,Other company,public area,1,8,98.10000000000001
+848,0,Other company,public area,0,3,95.53
+849,0,Other company,public area,0,7,273.76
+850,0,Other company,public parking lot,1,6,165.82
+851,0,Other company,public area,0,19,93.6
+852,0,Other company,public parking lot,1,16,532.65
+853,0,Other company,public area,1,28,390.82
+854,0,Other company,public area,1,46,626.1
+855,0,Other company,public area,1,36,813.45
+856,0,Other company,hotel,1,5,108.81
+857,0,Other company,hotel,1,1,15.72
+858,0,Other company,public parking lot,1,7,101.86
+859,0,Other company,public area,0,1,1.48
+860,0,Other company,public area,1,1,23.78
+861,0,Other company,public area,0,14,190.2
+862,0,Other company,public institution,1,6,115.59
+863,0,Other company,market,1,17,563.41
+864,0,Other company,public area,1,24,257.18
+865,0,Other company,hotel,1,2,107.99000000000001
+866,0,Other company,public parking lot,1,54,913.22
+867,0,Other company,resort,0,1,3.74
+868,0,Other company,public area,1,6,50.91
+869,0,Other company,restaurant,1,8,190.11
+870,0,Other company,company,1,16,293.08
+871,0,Other company,public area,1,34,393.83
+872,0,Other company,public institution,1,2,75.44
+873,0,Other company,public area,1,24,437.03
+874,0,Other company,restaurant,1,4,100.12
+875,0,Other company,apartment,1,1,7.43
+876,0,Other company,market,1,8,129.51
+877,0,Other company,public parking lot,1,10,124.96000000000001
+878,0,Other company,hotel,1,2,60.27
+879,0,Other company,public area,1,3,46.21
+880,0,Other company,sightseeing,1,24,457.73
+881,0,Other company,sightseeing,1,5,101.47
+882,0,Other company,public institution,1,44,650.71
+883,0,Other company,apartment,0,4,211.89999999999998
+884,0,Other company,hotel,0,1,62.51
+885,0,Other company,sightseeing,1,1,62.97
+886,0,Other company,public institution,1,46,728.16
+887,0,Other company,company,0,17,299.58
+888,0,Other company,public area,0,15,526.46
+889,0,Other company,public parking lot,1,14,367.83
+890,0,Other company,company,0,5,117.86
+891,0,Other company,market,1,13,314.28
+892,0,Other company,restaurant,1,16,328.99
+893,0,Other company,resort,0,5,68.47
+894,0,Other company,restaurant,0,9,152.08
+895,0,Other company,company,0,8,32.98
+896,0,Other company,market,1,11,304.7
+897,0,Other company,public parking lot,1,10,292.37
+898,0,Other company,apartment,1,15,286.37
+899,0,Other company,sightseeing,1,6,88.68
+900,0,Other company,public parking lot,1,116,2289.41
+901,0,Other company,restaurant,1,6,185.2
+902,0,Other company,public area,1,6,101.8
+903,0,Other company,restaurant,1,2,59.34
+904,0,Other company,public institution,1,16,306.75
+905,0,Other company,market,1,3,70.5
+906,0,Other company,public institution,1,25,516.35
+907,0,Other company,public area,1,96,2232.24
+908,0,Other company,public area,1,24,495.15
+909,0,Other company,restaurant,0,7,61.72
+910,0,Other company,restaurant,0,2,18.43
+911,0,Other company,public institution,0,8,71.4
+912,0,Other company,market,1,10,206.3
+913,0,Other company,sightseeing,1,36,667.18
+914,0,Other company,market,1,28,714.99
+915,0,Other company,public institution,1,78,1988.4
+916,0,Other company,market,1,8,272.28
+917,0,Other company,resort,1,11,264.17
+918,0,Other company,market,1,13,308.43
+919,0,Other company,sightseeing,1,21,437.63
+920,0,Other company,public institution,1,57,1542.62
+921,0,Other company,hotel,1,16,314.92
+922,0,Other company,market,1,2,42.25
+923,0,Other company,public area,1,6,176.89
+924,0,Other company,market,1,10,260.89
+925,0,Other company,market,1,17,390.97
+926,0,Other company,market,1,10,275.34999999999997
+927,0,Other company,resort,0,14,150.85
+928,0,Other company,restaurant,0,2,12.27
+929,0,Other company,market,1,18,443.72
+930,0,Other company,resort,0,10,163.59
+931,0,Other company,market,1,10,288.48
+932,1,Own company,resort,0,33,832.99
+933,0,Other company,public institution,1,35,427.11
+934,0,Other company,hotel,1,3,53.290000000000006
+935,0,Other company,hotel,0,8,106.66
+936,0,Other company,public institution,1,31,1076.68
+937,0,Other company,public institution,1,25,227.3
+938,0,Other company,public area,1,40,962.92
+939,0,Other company,company,0,4,147.85
+940,0,Other company,public area,1,10,255.89
+941,0,Other company,public institution,0,8,70.0
+942,0,Other company,sightseeing,1,2,43.33
+944,0,Other company,public area,0,4,55.58
+945,1,Own company,public institution,0,38,664.84
+946,0,Other company,public parking lot,1,14,266.23
+947,0,Other company,company,1,5,101.56
+948,0,Other company,public institution,0,23,212.2
+949,0,Other company,public parking lot,1,11,184.85
+950,0,Other company,apartment,0,26,448.88
+951,0,Other company,apartment,0,34,189.92
+952,0,Other company,restaurant,0,2,12.129999999999999
+953,0,Other company,public area,1,28,600.38
+954,0,Other company,public parking lot,1,5,70.26
+955,0,Other company,public institution,1,1,1.34
+956,0,Other company,public institution,0,21,148.3
+957,0,Other company,public parking lot,1,69,1166.17
+958,0,Other company,public institution,0,6,26.299999999999997
+959,0,Other company,public area,1,9,167.49
+960,0,Other company,public area,1,24,560.22
+961,0,Other company,public institution,0,7,45.63
+962,0,Other company,company,1,40,656.82
+963,1,Own company,resort,0,39,744.77
+964,0,Other company,public institution,1,3,70.0
+965,0,Other company,company,1,4,40.75
+966,0,Other company,company,1,2,16.46
+967,0,Other company,public parking lot,1,88,1543.39
+968,0,Other company,public area,1,22,546.92
+969,0,Other company,public area,1,15,384.26
+970,0,Other company,public institution,1,120,2618.86
+971,0,Other company,public area,1,120,1398.98
+972,0,Other company,public institution,1,9,235.45
+973,0,Other company,golf,0,29,423.88
+974,0,Other company,resort,0,25,351.58
+975,0,Other company,public area,0,7,53.4
+976,0,Other company,public institution,0,19,173.5
+977,0,Other company,public institution,1,100,383.05
+978,0,Other company,public institution,1,3,51.58
+979,0,Other company,public institution,1,23,328.71000000000004
+980,0,Other company,public parking lot,1,14,213.73
+981,0,Other company,public area,1,4,22.24
+982,0,Other company,public institution,1,14,46.7
+983,0,Other company,public area,1,5,31.39
+984,0,Other company,public institution,0,7,10.7
+985,0,Other company,apartment,1,4,19.86
+986,0,Other company,public institution,0,7,31.700000000000003
+987,0,Other company,public institution,0,4,17.799999999999997
+988,0,Other company,public parking lot,1,10,156.13
+989,0,Other company,apartment,1,13,155.2
+990,0,Other company,public institution,0,3,11.7
+991,0,Other company,public institution,1,21,91.97
+992,0,Other company,public institution,0,5,18.0
+993,0,Other company,public area,1,7,118.7
+994,0,Other company,public institution,1,7,47.74
+995,0,Other company,public institution,1,2,5.35
+996,0,Other company,public parking lot,1,1,3.23
+997,0,Other company,public parking lot,1,3,25.43
+998,0,Other company,resort,0,3,53.5
+999,0,Other company,sightseeing,0,3,8.799999999999999
+1000,0,Other company,public area,1,5,95.03999999999999
+1001,0,Other company,public area,1,101,1844.13
+1002,0,Other company,public parking lot,1,47,888.71
+1003,0,Other company,public parking lot,1,43,788.79
+1004,0,Other company,public parking lot,1,85,1358.93
+1005,0,Other company,public institution,1,67,1503.28
+1006,0,Other company,public parking lot,1,35,635.81
+1007,0,Other company,apartment,1,2,45.42
+1008,0,Other company,public institution,1,3,51.46
+1009,0,Other company,sightseeing,1,6,72.17
+1010,0,Other company,public institution,1,39,687.67
+1011,0,Other company,public area,1,7,99.97
+1012,0,Other company,public parking lot,1,1,19.74
+1013,0,Other company,market,1,5,55.67
+1014,0,Other company,public parking lot,1,38,605.46
+1015,0,Other company,company,0,24,256.95
+1016,0,Other company,sightseeing,1,6,37.5
+1017,0,Other company,public area,1,19,284.69
+1018,0,Other company,resort,0,20,256.56
+1019,1,Own company,restaurant,0,17,95.47
+1020,0,Other company,sightseeing,1,8,111.19
+1021,0,Other company,apartment,0,6,80.26
+1022,0,Other company,public institution,1,7,111.29
+1023,0,Other company,public institution,0,9,145.0
+1024,0,Other company,public institution,0,2,4.1
+1025,0,Other company,public area,1,4,21.99
+1026,0,Other company,apartment,0,2,22.9
+1028,0,Other company,company,0,6,55.92
+1029,0,Other company,public institution,1,10,126.99000000000001
+1030,0,Other company,public institution,1,3,31.05
+1031,0,Other company,market,1,37,1102.36
+1032,0,Other company,apartment,0,95,1220.34
+1033,0,Other company,apartment,0,12,183.1
+1034,0,Other company,public parking lot,1,13,202.18
+1035,0,Other company,sightseeing,0,8,60.2
+1036,0,Other company,public parking lot,1,3,49.92
+1037,0,Other company,apartment,1,10,88.11
+1038,0,Other company,apartment,1,7,15.38
+1039,0,Other company,apartment,0,2,19.799999999999997
+1040,0,Other company,company,1,2,8.52
+1041,0,Other company,public parking lot,0,35,310.92
+1042,0,Other company,market,1,65,679.29
+1043,0,Other company,public parking lot,0,41,405.8
+1044,0,Other company,public institution,1,3,46.44
+1045,0,Other company,public area,1,33,901.1800000000001
+1046,0,Other company,public area,1,16,294.98
+1047,0,Other company,public area,1,86,2425.74
+1048,0,Other company,market,1,41,878.05
+1049,0,Other company,market,1,4,54.959999999999994
+1050,0,Other company,restaurant,1,8,56.4
+1051,0,Other company,public institution,1,6,57.0
+1052,0,Other company,public institution,1,4,26.240000000000002
+1053,0,Other company,market,1,29,772.83
+1054,0,Other company,public area,1,11,148.69
+1055,0,Other company,public institution,1,68,731.38
+1056,0,Other company,public institution,1,39,445.77
+1057,0,Other company,market,1,24,544.66
+1058,0,Other company,public institution,1,3,48.94
+1059,0,Other company,public institution,0,17,300.2
+1060,0,Other company,market,1,10,138.52
+1061,0,Other company,restaurant,1,10,275.69
+1062,0,Other company,public parking lot,1,42,636.67
+1063,0,Other company,market,1,2,40.78
+1064,0,Other company,public area,1,57,733.2
+1065,0,Other company,public institution,1,5,73.3
+1066,0,Other company,resort,1,3,55.59
+1067,0,Other company,restaurant,1,3,97.09
+1068,0,Other company,market,1,6,180.54
+1069,0,Other company,public institution,1,2,35.46
+1070,0,Other company,market,1,13,213.3
+1071,0,Other company,market,1,2,11.41
+1072,0,Other company,public institution,1,3,12.37
+1073,1,Own company,resort,0,12,146.38
+1074,0,Other company,apartment,1,64,1089.84
+1075,0,Other company,public area,1,10,140.52
+1076,0,Other company,public area,1,15,206.78
+1077,0,Other company,public institution,1,16,206.4
+1078,0,Other company,public area,1,20,254.63
+1079,0,Other company,public institution,1,8,98.44
+1080,0,Other company,sightseeing,0,21,130.3
+1081,0,Other company,apartment,0,27,226.86
+1082,0,Other company,public institution,1,26,400.24
+1083,0,Other company,public institution,1,23,367.18
+1084,0,Other company,public area,1,16,491.6
+1085,0,Other company,public area,1,6,183.16
+1087,0,Other company,sightseeing,0,16,209.39
+1088,0,Other company,public institution,1,50,795.51
+1089,0,Other company,public institution,1,21,101.45
+1090,0,Other company,public area,1,8,152.31
+1091,0,Other company,public parking lot,1,14,231.57
+1092,0,Other company,public area,0,14,130.0
+1093,0,Other company,sightseeing,1,17,246.26999999999998
+1094,0,Other company,hotel,0,6,64.11
+1095,0,Other company,sightseeing,1,11,166.04
+1096,0,Other company,market,1,63,587.78
+1097,0,Other company,public parking lot,1,6,130.93
+1098,0,Other company,public institution,1,10,203.17
+1100,0,Other company,public institution,1,14,201.85
+1101,0,Other company,market,1,14,87.27
+1103,0,Other company,public area,1,11,173.0
+1104,0,Other company,market,1,24,357.74
+1105,0,Other company,public institution,0,2,12.6
+1106,0,Other company,public institution,1,46,1049.72
+1108,0,Other company,resort,1,3,22.22
+1109,0,Other company,public institution,1,8,62.769999999999996
+1110,0,Other company,public area,1,3,58.36
+1111,0,Other company,apartment,1,18,348.05
+1112,0,Other company,public area,0,38,254.4
+1113,0,Other company,apartment,0,1,10.3
+1114,0,Other company,public parking lot,1,37,540.9399999999999
+1115,0,Other company,public area,1,1,14.94
+1116,0,Other company,public area,1,31,515.57
+1117,0,Other company,sightseeing,1,8,178.74
+1118,0,Other company,public parking lot,1,7,145.81
+1119,0,Other company,public area,1,11,295.49
+1120,0,Other company,apartment,0,15,124.64
+1121,0,Other company,apartment,0,17,151.67000000000002
+1122,0,Other company,market,0,2,9.64
+1123,0,Other company,restaurant,1,74,2567.15
+1124,0,Other company,public institution,1,4,83.48
+1125,0,Other company,public parking lot,1,17,329.2
+1126,0,Other company,public parking lot,1,5,115.32000000000001
+1127,0,Other company,public area,1,15,246.59
+1128,0,Other company,public area,1,4,44.14
+1129,0,Other company,apartment,1,3,64.52
+1130,0,Other company,public area,0,4,15.7
+1131,0,Other company,public area,0,2,44.2
+1132,0,Other company,public area,0,3,20.72
+1133,0,Other company,public area,1,18,368.98
+1134,0,Other company,apartment,1,14,147.3
+1135,0,Other company,public area,1,28,552.51
+1136,0,Other company,public area,1,30,624.75
+1137,0,Other company,public parking lot,1,13,182.89
+1138,0,Other company,public area,1,22,238.74
+1139,0,Other company,public parking lot,0,12,148.1
+1140,0,Other company,public parking lot,0,5,64.16
+1141,0,Other company,public parking lot,0,12,117.0
+1142,0,Other company,public area,0,19,113.81
+1143,0,Other company,hotel,1,47,594.47
+1144,0,Other company,public area,0,26,149.77
+1145,0,Other company,public institution,0,5,32.3
+1146,0,Other company,public institution,0,17,158.2
+1147,0,Other company,public institution,0,41,938.2
+1148,0,Other company,public area,0,8,55.15
+1149,0,Other company,market,0,7,8.28
+1150,0,Other company,market,0,2,3.13
+1151,0,Other company,company,0,3,31.12
+1152,0,Other company,restaurant,0,12,102.74
+1153,0,Other company,restaurant,0,2,21.61
+1154,0,Other company,restaurant,0,11,77.0
+1155,0,Other company,apartment,0,67,715.74
+1156,0,Other company,apartment,0,23,235.47
+1157,0,Other company,sightseeing,0,105,715.5
+1158,0,Other company,public area,1,4,38.45
+1159,0,Other company,public area,1,1,19.62
+1160,0,Other company,public area,1,26,364.68
+1161,0,Other company,public institution,1,16,359.35
+1162,0,Other company,public area,1,12,175.71
+1163,0,Other company,public institution,1,39,2078.47
+1164,0,Other company,resort,0,7,145.94
+1165,1,Own company,apartment,0,17,317.48
+1166,0,Other company,apartment,1,7,183.87
+1167,0,Other company,public area,1,16,336.93
+1168,0,Other company,market,1,84,2127.73
+1169,0,Other company,public institution,1,9,135.58
+1170,0,Other company,restaurant,0,2,30.1
+1171,0,Other company,public parking lot,1,5,94.25
+1172,0,Other company,apartment,0,7,94.66
+1173,0,Other company,public area,0,4,47.3
+1174,0,Other company,public area,0,2,5.1
+1175,0,Other company,public institution,0,4,66.3
+1176,0,Other company,public institution,0,2,25.0
+1177,0,Other company,apartment,0,4,60.59
+1178,0,Other company,public institution,0,21,260.8
+1179,0,Other company,public area,0,7,176.1
+1180,0,Other company,public area,0,6,84.79
+1181,0,Other company,public area,0,16,172.7
+1182,0,Other company,public institution,0,1,20.5
+1183,0,Other company,public institution,0,5,84.7
+1184,1,Own company,apartment,0,23,428.64
+1185,1,Own company,apartment,0,12,266.65
+1186,0,Other company,company,1,23,852.08
+1187,0,Other company,apartment,0,42,260.41
+1188,0,Other company,hotel,1,54,665.51
+1189,0,Other company,company,0,9,54.46
+1190,0,Other company,apartment,1,3,86.28
+1191,0,Other company,sightseeing,0,1,15.9
+1192,0,Other company,resort,0,19,243.78
+1193,0,Other company,restaurant,1,2,43.78
+1194,0,Other company,public institution,0,13,107.45
+1195,0,Other company,public area,1,95,2317.22
+1197,0,Other company,apartment,0,50,480.29
+1198,0,Other company,public institution,0,19,214.4
+1199,0,Other company,apartment,0,11,93.57
+1200,0,Other company,apartment,0,38,373.96
+1201,0,Other company,public institution,0,34,407.5
+1202,0,Other company,public institution,0,13,103.0
+1203,0,Other company,public area,0,7,45.230000000000004
+1204,0,Other company,public area,0,22,96.53999999999999
+1205,0,Other company,company,0,1,9.27
+1206,1,Own company,hotel,0,4,41.2
+1208,0,Other company,public parking lot,0,4,27.38
+1209,0,Other company,resort,0,122,844.18
+1210,0,Other company,resort,0,29,237.38
+1211,0,Other company,resort,0,7,55.36
+1212,0,Other company,resort,0,13,118.55
+1213,0,Other company,public parking lot,0,4,45.07
+1214,0,Other company,public parking lot,0,26,207.84
+1215,0,Other company,public parking lot,0,5,45.349999999999994
+1216,0,Other company,public parking lot,0,1,10.44
+1217,0,Other company,company,0,23,215.97
+1218,0,Other company,company,0,3,29.03
+1219,0,Other company,public parking lot,0,5,37.99
+1220,1,Own company,public area,0,42,466.73
+1221,0,Other company,public institution,1,4,80.98
+1222,0,Other company,apartment,0,21,638.03
+1223,0,Other company,apartment,0,20,523.04
+1224,0,Other company,public parking lot,1,17,591.64
+1225,0,Other company,public institution,1,27,294.29
+1226,0,Other company,market,1,46,1068.99
+1227,0,Other company,market,1,28,705.87
+1228,0,Other company,market,1,4,116.9
+1229,0,Other company,market,1,6,145.48
+1230,0,Other company,public parking lot,1,16,270.02
+1231,0,Other company,sightseeing,1,7,200.13
+1232,0,Other company,public area,1,2,83.94999999999999
+1233,1,Own company,public area,0,81,1653.34
+1234,0,Other company,public institution,1,13,263.2
+1235,0,Other company,public area,1,10,337.87
+1236,0,Other company,public area,1,12,396.01
+1237,0,Other company,public institution,1,9,189.93
+1238,0,Other company,public area,1,6,122.66
+1239,0,Other company,public parking lot,1,11,352.24
+1240,0,Other company,public parking lot,1,25,329.79
+1241,0,Other company,public institution,1,37,692.39
+1242,0,Other company,public area,1,3,58.7
+1243,0,Other company,public area,1,4,85.72999999999999
+1244,0,Other company,public parking lot,1,7,232.35999999999999
+1245,0,Other company,public area,1,12,250.36
+1246,0,Other company,public area,1,5,98.13
+1247,0,Other company,public institution,1,7,107.03
+1248,0,Other company,bus garage,1,1,14.74
+1249,0,Other company,camping,1,8,115.92999999999999
+1250,0,Other company,sightseeing,0,5,24.0
+1251,0,Other company,public institution,1,23,388.73
+1252,0,Other company,public area,1,7,154.12
+1253,0,Other company,hotel,1,4,269.12
+1254,0,Other company,resort,0,18,132.27
+1255,0,Other company,public area,1,17,362.94
+1256,0,Other company,sightseeing,1,28,985.67
+1257,0,Other company,resort,1,3,85.96000000000001
+1258,0,Other company,company,0,27,169.88
+1259,0,Other company,public area,1,8,87.06
+1260,0,Other company,sightseeing,1,18,220.84
+1261,0,Other company,public parking lot,1,11,257.43
+1263,0,Other company,public parking lot,1,13,281.02
+1264,0,Other company,sightseeing,1,10,290.64
+1265,0,Other company,public area,1,15,238.44
+1266,0,Other company,resort,1,3,101.5
+1268,0,Other company,resort,0,6,28.82
+1274,0,Other company,hotel,1,8,108.22
+1276,0,Other company,public area,1,6,169.79
+1277,0,Other company,public area,1,12,273.22
+1278,0,Other company,restaurant,0,2,18.32
+1280,0,Other company,sightseeing,0,1,0.06
+1281,0,Other company,apartment,0,5,42.6
+1282,0,Other company,public area,0,56,317.2
+1283,0,Other company,public institution,0,30,196.57
+1284,0,Other company,public area,0,17,374.6
+1285,0,Other company,public area,0,59,357.1
+1286,0,Other company,public institution,0,1,11.0
+1287,0,Other company,public area,0,7,40.0
+1288,0,Other company,public institution,0,25,175.91
+1289,0,Other company,public institution,0,2,10.07
+1290,0,Other company,public area,0,3,20.45
+1291,0,Other company,apartment,1,23,390.29
+1292,0,Other company,market,1,4,30.53
+1293,0,Other company,apartment,1,20,328.83
+1294,0,Other company,public parking lot,1,46,562.21
+1295,0,Other company,public institution,1,18,494.12
+1296,0,Other company,public institution,1,2,17.880000000000003
+1297,0,Other company,public institution,1,17,185.15
+1298,0,Other company,public parking lot,1,25,264.18
+1299,0,Other company,public institution,1,4,79.0
+1300,0,Other company,golf,0,8,186.64999999999998
+1301,0,Other company,public institution,0,35,447.46
+1302,0,Other company,public institution,0,2,8.9
+1303,0,Other company,restaurant,0,9,58.28
+1304,0,Other company,restaurant,0,10,73.43
+1305,0,Other company,public institution,0,10,144.99
+1306,0,Other company,sightseeing,0,2,11.25
+1307,0,Other company,public area,0,14,128.93
+1308,0,Other company,public institution,0,2,33.11
+1309,0,Other company,hotel,0,8,47.57
+1310,0,Other company,public institution,1,6,125.32
+1311,0,Other company,sightseeing,1,7,168.31
+1312,0,Other company,public institution,0,2,48.12
+1313,0,Other company,public institution,0,1,11.04
+1314,0,Other company,hotel,0,148,1206.82
+1315,0,Other company,public institution,0,5,13.7
+1316,0,Other company,apartment,0,17,184.44
+1317,0,Other company,apartment,0,7,66.26
+1318,0,Other company,public institution,0,5,52.7
+1319,0,Other company,public institution,1,18,292.94
+1320,0,Other company,public institution,1,43,918.24
+1321,0,Other company,public institution,1,21,415.35
+1322,0,Other company,public area,1,9,149.49
+1323,0,Other company,public area,1,34,885.36
+1324,0,Other company,public area,1,15,300.39
+1325,0,Other company,public institution,1,2,39.28
+1326,0,Other company,public institution,0,3,105.6
+1327,0,Other company,sightseeing,1,15,455.84000000000003
+1328,0,Other company,public institution,0,1,3.2
+1329,0,Other company,company,0,1,19.0
+1331,0,Other company,resort,1,7,122.33
+1332,0,Other company,public parking lot,1,7,124.3
+1333,0,Other company,public area,1,10,256.12
+1334,0,Other company,public parking lot,1,9,214.03
+1335,0,Other company,public area,1,45,1278.33
+1336,0,Other company,public area,1,11,189.08
+1338,0,Other company,golf,0,2,68.09
+1340,0,Other company,hotel,0,9,197.60999999999999
+1341,0,Other company,hotel,0,11,161.75
+1342,0,Other company,market,1,32,1184.2
+1343,0,Other company,public parking lot,1,6,117.98
+1344,0,Other company,market,1,11,181.51
+1345,0,Other company,company,1,10,203.61
+1346,0,Other company,public area,0,6,9.14
+1348,0,Other company,market,1,6,100.71
+1349,0,Other company,public institution,1,10,102.52000000000001
+1350,0,Other company,public institution,0,43,437.0
+1352,0,Other company,public institution,1,17,293.93
+1353,0,Other company,public institution,1,8,165.79
+1354,0,Other company,public institution,1,1,21.71
+1355,0,Other company,company,1,16,442.51
+1356,0,Other company,public institution,1,1,6.81
+1357,0,Other company,sightseeing,1,8,139.07
+1358,0,Other company,hotel,1,27,1237.58
+1359,0,Other company,public area,1,3,38.26
+1360,0,Other company,public institution,1,11,119.06
+1361,0,Other company,sightseeing,1,9,201.16
+1362,0,Other company,public institution,1,2,32.0
+1363,0,Other company,restaurant,0,3,17.6
+1365,0,Other company,public institution,0,4,22.5
+1366,0,Other company,market,1,5,123.83
+1367,0,Other company,apartment,1,29,469.78
+1368,0,Other company,public parking lot,1,35,606.76
+1369,0,Other company,public parking lot,1,12,242.96
+1370,0,Other company,public parking lot,1,5,90.35
+1371,0,Other company,public parking lot,1,1,18.49
+1372,0,Other company,public institution,0,10,269.9
+1373,0,Other company,restaurant,1,3,50.6
+1374,0,Other company,company,1,3,56.94
+1375,0,Other company,company,1,7,204.25
+1376,0,Other company,public area,1,1,39.68
+1377,0,Other company,public institution,1,11,421.39
+1378,0,Other company,company,1,8,69.17
+1379,0,Other company,hotel,1,1,59.31
+1380,0,Other company,public institution,1,3,67.48
+1381,0,Other company,public area,1,4,79.28
+1382,0,Other company,apartment,1,1,15.45
+1383,0,Other company,restaurant,1,10,55.839999999999996
+1384,0,Other company,public institution,1,2,31.61
+1385,0,Other company,public parking lot,1,2,42.89
+1386,0,Other company,hotel,1,1,19.71
+1387,0,Other company,sightseeing,1,3,61.43
+1388,0,Other company,public parking lot,1,2,24.55
+1389,0,Other company,public institution,0,83,558.4
+1390,0,Other company,public institution,0,4,24.71
+1391,0,Other company,sightseeing,0,3,21.48
+1392,1,Own company,golf,0,94,1020.0
+1393,0,Other company,resort,0,9,88.1
+1394,0,Other company,public parking lot,0,20,162.04
+1395,0,Other company,sightseeing,0,8,35.39
+1396,0,Other company,public area,1,16,382.09
+1397,0,Other company,market,1,6,135.39
+1398,0,Other company,public area,1,12,243.92000000000002
+1399,0,Other company,public institution,1,2,10.74
+1400,0,Other company,hotel,0,3,53.87
+1401,0,Other company,public area,1,7,155.79
+1402,0,Other company,public area,0,3,48.8
+1403,0,Other company,market,1,2,27.86
+1404,0,Other company,restaurant,1,1,21.04
+1405,0,Other company,public parking lot,1,20,423.52
+1406,0,Other company,public institution,1,15,238.23
+1407,0,Other company,public parking lot,1,8,151.96
+1408,0,Other company,public area,1,7,186.06
+1409,0,Other company,public parking lot,1,3,16.63
+1410,0,Other company,public parking lot,1,2,29.880000000000003
+1411,0,Other company,resort,0,15,298.4
+1412,0,Other company,public area,1,21,508.76
+1413,0,Other company,sightseeing,1,2,0.21000000000000002
+1414,0,Other company,public area,1,10,183.85
+1415,0,Other company,market,1,6,113.4
+1416,0,Other company,sightseeing,0,4,57.22
+1417,0,Other company,public area,1,12,326.17
+1418,0,Other company,resort,0,19,155.38
+1419,0,Other company,public institution,1,18,221.4
+1420,0,Other company,public area,1,6,49.5
+1421,0,Other company,public area,1,12,265.63
+1422,0,Other company,public institution,0,1,13.44
+1423,0,Other company,apartment,0,6,250.38
+1424,0,Other company,company,0,5,215.35
+1425,0,Other company,public institution,1,1,34.47
+1426,0,Other company,apartment,0,1,46.01
+1427,0,Other company,public institution,0,6,52.2
+1428,0,Other company,public parking lot,1,62,400.94
+1429,0,Other company,golf,0,6,36.5
+1430,0,Other company,golf,0,10,95.69
+1431,0,Other company,apartment,0,10,73.78999999999999
+1432,0,Other company,public parking lot,1,39,367.79
+1433,0,Other company,public parking lot,1,55,798.85
+1434,0,Other company,public parking lot,1,4,81.57000000000001
+1435,0,Other company,bus garage,1,4,100.97
+1436,0,Other company,bus garage,1,9,259.94
+1444,0,Other company,company,1,40,1679.92
+1445,0,Other company,public parking lot,1,1,13.37
+1446,0,Other company,public institution,0,13,130.8
+1447,0,Other company,public institution,1,9,126.42999999999999
+1448,0,Other company,public parking lot,1,15,169.48
+1449,0,Other company,public area,1,7,160.76
+1450,0,Other company,public parking lot,1,15,175.79999999999998
+1451,0,Other company,public area,1,8,149.85
+1452,0,Other company,public parking lot,1,2,27.229999999999997
+1453,0,Other company,public institution,0,7,96.5
+1454,0,Other company,public institution,1,12,214.57
+1455,0,Other company,public parking lot,1,1,19.18
+1456,0,Other company,public institution,1,8,104.93
+1457,0,Other company,public parking lot,0,16,208.21
+1458,0,Other company,public area,0,33,298.3
+1459,0,Other company,public area,0,32,195.4
+1460,0,Other company,public area,0,21,175.5
+1461,0,Other company,public institution,0,50,684.4
+1462,0,Other company,public area,1,23,485.68
+1463,0,Other company,apartment,1,17,234.81
+1464,0,Other company,public institution,1,10,90.5
+1465,0,Other company,public institution,1,1,17.34
+1466,0,Other company,public area,1,11,124.92999999999999
+1467,0,Other company,company,1,23,371.07
+1468,0,Other company,market,1,15,195.24
+1469,0,Other company,public institution,1,8,165.49
+1470,0,Other company,public institution,0,18,412.6
+1471,0,Other company,public institution,0,3,65.4
+1472,0,Other company,public area,1,13,148.85999999999999
+1473,0,Other company,public institution,0,3,16.9
+1474,0,Other company,public area,1,4,62.14
+1475,0,Other company,public parking lot,1,1,35.97
+1476,0,Other company,resort,0,4,57.06
+1477,0,Other company,bus garage,1,4,136.8
+1478,0,Other company,public parking lot,1,17,229.27
+1479,0,Other company,public parking lot,1,1,21.47
+1480,0,Other company,public area,1,4,72.35
+1481,0,Other company,hotel,0,4,35.1
+1482,0,Other company,public parking lot,1,10,85.58
+1483,0,Other company,sightseeing,0,3,39.4
+1484,0,Other company,public institution,0,7,72.9
+1485,0,Other company,apartment,1,1,5.68
+1486,0,Other company,public institution,1,8,232.96
+1487,0,Other company,sightseeing,0,1,8.11
+1488,0,Other company,public parking lot,1,71,1334.42
+1489,0,Other company,public parking lot,1,27,461.86
+1490,0,Other company,public area,1,120,1789.52
+1491,0,Other company,market,1,5,95.27000000000001
+1493,0,Other company,apartment,0,3,79.53999999999999
+1494,0,Other company,apartment,0,9,193.06
+1495,0,Other company,apartment,0,5,111.74
+1496,0,Other company,apartment,1,3,46.91
+1497,0,Other company,apartment,0,9,136.09
+1498,0,Other company,restaurant,1,2,17.810000000000002
+1499,0,Other company,apartment,1,2,68.52
+1500,0,Other company,apartment,0,4,52.589999999999996
+1501,0,Other company,apartment,0,1,23.25
+1502,0,Other company,public area,0,14,108.75
+1503,0,Other company,public area,1,23,537.12
+1504,0,Other company,public institution,1,13,239.71
+1505,0,Other company,public institution,1,8,252.96
+1506,0,Other company,restaurant,1,18,536.79
+1507,0,Other company,public area,0,45,631.05
+1508,0,Other company,hotel,0,1,6.58
+1509,0,Other company,public parking lot,0,2,22.020000000000003
+1510,0,Other company,restaurant,0,1,3.27
+1511,0,Other company,apartment,0,65,644.11
+1512,0,Other company,hotel,0,13,115.96
+1513,0,Other company,hotel,1,9,256.03
+1514,0,Other company,restaurant,0,2,33.71
+1515,0,Other company,public parking lot,1,2,35.589999999999996
+1516,0,Other company,sightseeing,0,7,48.03
+1517,0,Other company,public parking lot,1,17,284.56
+1521,0,Other company,sightseeing,1,20,375.39
+1523,0,Other company,sightseeing,1,7,216.73
+1524,0,Other company,resort,1,11,166.15
+1525,0,Other company,public area,1,10,135.77
+1526,0,Other company,public area,0,2,26.229999999999997
+1530,0,Other company,restaurant,1,1,34.57
+1531,0,Other company,public parking lot,0,2,14.26
+1532,0,Other company,public area,1,15,249.46
+1533,0,Other company,public parking lot,1,5,118.47
+1535,0,Other company,company,0,1,11.84
+1536,0,Other company,company,0,90,1045.11
+1537,0,Other company,apartment,0,3,34.85
+1538,0,Other company,company,0,43,1813.69
+1539,0,Other company,market,1,3,4.52
+1540,0,Other company,company,0,6,198.84
+1541,0,Other company,public area,1,5,115.52
+1542,0,Other company,restaurant,1,4,87.86
+1543,0,Other company,apartment,0,2,0.29000000000000004
+1544,0,Other company,public area,1,2,12.94
+1545,0,Other company,company,0,10,88.78
+1546,0,Other company,public parking lot,0,5,32.44
+1547,0,Other company,public parking lot,0,8,87.07
+1548,0,Other company,public area,0,33,226.07999999999998
+1549,0,Other company,restaurant,0,4,42.55
+1550,0,Other company,public parking lot,0,6,75.12
+1551,0,Other company,public parking lot,0,5,156.71
+1552,1,Own company,public area,0,34,779.0
+1553,0,Other company,restaurant,1,18,258.94
+1554,0,Other company,public parking lot,1,3,53.56
+1555,0,Other company,public parking lot,1,11,217.25
+1556,0,Other company,sightseeing,1,20,422.15
+1557,0,Other company,public area,1,6,150.73
+1560,0,Other company,resort,0,7,70.2
+1561,0,Other company,sightseeing,1,6,156.82
+1563,0,Other company,resort,0,8,68.71000000000001
+1566,0,Other company,apartment,1,2,65.74000000000001
+1567,0,Other company,hotel,0,1,39.26
+1568,0,Other company,public institution,0,7,269.3
+1569,0,Other company,restaurant,0,1,9.74
+1570,0,Other company,public parking lot,1,22,242.67000000000002
+1571,0,Other company,public area,0,1,0.78
+1572,0,Other company,apartment,0,18,650.0
+1573,0,Other company,public area,1,29,549.52
+1574,0,Other company,public parking lot,1,2,54.05
+1575,0,Other company,public parking lot,1,5,125.32
+1576,0,Other company,public institution,1,17,247.02
+1577,0,Other company,company,0,13,189.01
+1578,0,Other company,company,0,16,326.37
+1579,0,Other company,public institution,1,9,384.05
+1580,0,Other company,public institution,1,4,116.49000000000001
+1581,0,Other company,public parking lot,1,3,87.84
+1582,0,Other company,public institution,1,9,202.85
+1583,0,Other company,public area,0,2,11.690000000000001
+1584,0,Other company,resort,1,9,125.78
+1585,0,Other company,resort,0,9,115.67999999999999
+1586,0,Other company,public institution,1,2,53.92
+1587,0,Other company,public institution,1,5,92.89
+1588,0,Other company,public institution,0,2,32.6
+1589,0,Other company,restaurant,0,3,21.25
+1590,0,Other company,market,1,3,26.28
+1591,0,Other company,restaurant,0,14,65.11
+1592,0,Other company,public institution,0,1,1.1
+1593,0,Other company,sightseeing,1,10,353.6
+1594,0,Other company,hotel,0,1,25.5
+1595,0,Other company,sightseeing,1,2,45.0
+1597,0,Other company,restaurant,0,2,20.1
+1598,0,Other company,resort,0,17,301.97
+1599,0,Other company,public area,1,3,91.60000000000001
+1601,0,Other company,public area,1,7,226.4
+1602,0,Other company,hotel,1,6,105.66000000000001
+1603,0,Other company,resort,0,6,155.22
+1604,0,Other company,public institution,0,13,124.0
+1605,0,Other company,company,0,15,159.96
+1606,0,Other company,company,0,13,136.78
+1607,0,Other company,company,0,2,22.43
+1608,0,Other company,company,0,6,65.13
+1609,0,Other company,hotel,0,4,77.98
+1610,0,Other company,company,0,36,386.81
+1611,0,Other company,company,0,29,297.4
+1612,0,Other company,company,0,8,85.19
+1613,0,Other company,market,1,8,118.75
+1614,0,Other company,public institution,1,1,19.06
+1615,0,Other company,public area,1,22,431.19
+1616,0,Other company,public area,1,16,399.8
+1617,0,Other company,public area,1,11,180.78
+1619,0,Other company,restaurant,1,1,1.16
+1620,0,Other company,public area,1,22,410.26
+1621,0,Other company,public institution,1,2,36.0
+1623,0,Other company,apartment,0,5,69.42
+1624,0,Other company,apartment,0,4,91.00999999999999
+1625,0,Other company,public parking lot,0,1,5.66
+1626,0,Other company,public institution,0,3,32.48
+1629,0,Other company,market,1,6,119.36000000000001
+1631,0,Other company,sightseeing,0,13,81.17
+1633,0,Other company,public institution,0,4,54.7
+1634,0,Other company,public area,0,8,197.6
+1635,0,Other company,public institution,0,3,25.63
+1636,0,Other company,public area,0,1,2.63
+1637,0,Other company,apartment,0,4,15.259999999999998
+1638,0,Other company,public area,1,9,164.68
+1639,0,Other company,hotel,0,9,124.18
+1640,0,Other company,public area,1,10,147.86
+1641,0,Other company,golf,1,16,403.61
+1642,0,Other company,public area,1,10,171.62
+1643,0,Other company,hotel,1,7,102.67999999999999
+1644,0,Other company,public institution,1,5,56.620000000000005
+1645,0,Other company,public institution,0,1,18.1
+1646,0,Other company,public area,1,11,134.89
+1647,0,Other company,sightseeing,1,2,51.2
+1648,0,Other company,public institution,0,3,103.4
+1649,0,Other company,public institution,0,2,31.799999999999997
+1650,0,Other company,public institution,0,1,29.3
+1651,0,Other company,public institution,0,2,76.69999999999999
+1652,0,Other company,public area,1,8,78.94
+1655,0,Other company,resort,0,11,135.66
+1657,0,Other company,hotel,0,9,68.13
+1659,0,Other company,public parking lot,1,13,151.59
+1660,0,Other company,public parking lot,1,9,230.59
+1661,0,Other company,sightseeing,0,6,40.04
+1662,0,Other company,resort,0,3,43.92
+1665,0,Other company,public area,0,8,98.0
+1666,0,Other company,hotel,0,19,164.98
+1667,0,Other company,public area,0,3,28.08
+1671,0,Other company,public institution,0,6,17.08
+1672,0,Other company,public institution,1,8,122.5
+1673,0,Other company,public area,1,8,153.56
+1674,0,Other company,public area,1,17,263.14
+1675,0,Other company,market,1,3,98.2
+1676,0,Other company,public parking lot,1,1,36.7
+1677,0,Other company,public area,0,2,9.84
+1678,0,Other company,apartment,0,1,15.19
+1679,0,Other company,resort,1,2,55.980000000000004
+1680,1,Own company,company,0,76,1774.5
+1681,0,Other company,restaurant,0,2,14.78
+1688,0,Other company,public area,1,14,514.18
+1689,0,Other company,resort,1,10,285.02
+1691,0,Other company,sightseeing,1,16,203.5
+1692,0,Other company,public area,1,3,95.28999999999999
+1693,0,Other company,public area,1,1,0.01
+1694,0,Other company,public area,1,11,133.77
+1695,0,Other company,company,0,9,200.97
+1696,0,Other company,restaurant,0,1,12.88
+1697,0,Other company,public institution,1,20,290.21
+1698,0,Other company,public parking lot,1,12,272.2
+1699,0,Other company,public institution,1,2,18.91
+1700,0,Other company,bus garage,1,4,124.85
+1701,0,Other company,hotel,0,7,72.1
+1702,0,Other company,bus garage,1,6,183.53
+1703,0,Other company,company,1,8,125.09
+1704,0,Other company,public area,1,2,16.19
+1705,0,Other company,public area,1,5,107.96000000000001
+1706,0,Other company,public parking lot,1,3,69.84
+1707,0,Other company,hotel,1,7,227.07999999999998
+1708,0,Other company,public area,1,3,82.9
+1709,0,Other company,public area,1,8,236.67000000000002
+1710,0,Other company,public area,1,3,45.019999999999996
+1711,0,Other company,public area,0,1,1.62
+1712,0,Other company,public institution,1,25,461.05
+1713,0,Other company,apartment,0,1,18.47
+1714,0,Other company,resort,1,4,144.29
+1715,0,Other company,hotel,0,3,61.97
+1716,0,Other company,public institution,0,3,125.60000000000001
+1717,0,Other company,public area,1,4,87.62
+1718,0,Other company,public parking lot,1,1,40.79
+1719,0,Other company,hotel,0,2,32.18
+1721,0,Other company,hotel,0,3,42.37
+1722,0,Other company,public area,0,6,59.239999999999995
+1723,0,Other company,public area,1,1,25.6
+1724,0,Other company,public area,1,4,107.50999999999999
+1725,0,Other company,public parking lot,0,1,28.53
+1726,0,Other company,hotel,0,5,95.0
+1727,0,Other company,hotel,0,12,125.47
+1728,0,Other company,hotel,0,3,95.84
+1729,0,Other company,public area,1,4,112.13
+1730,0,Other company,restaurant,1,12,273.34
+1731,0,Other company,public institution,0,10,127.2
+1732,0,Other company,public institution,0,12,176.0
+1733,0,Other company,public institution,1,24,550.76
+1734,0,Other company,public area,1,2,55.349999999999994
+1735,0,Other company,public area,1,3,144.39
+1736,0,Other company,public area,1,3,129.81
+1737,0,Other company,public institution,1,6,103.03
+1738,0,Other company,public institution,0,3,69.2
+1739,0,Other company,company,0,9,318.26
+1740,0,Other company,public area,1,6,153.16
+1741,0,Other company,public institution,1,9,172.62
+1742,0,Other company,public institution,1,1,36.08
+1743,0,Other company,public area,1,1,21.63
+1744,0,Other company,market,1,6,117.6
+1745,0,Other company,restaurant,1,5,56.92
+1746,0,Other company,public parking lot,1,6,103.3
+1747,0,Other company,public parking lot,0,7,46.47
+1748,0,Other company,restaurant,0,86,2547.8
+1749,0,Other company,apartment,1,16,669.72
+1750,0,Other company,apartment,0,1,6.16
+1751,0,Other company,apartment,0,1,18.63
+1752,0,Other company,public area,1,13,351.18
+1753,0,Other company,restaurant,1,3,106.87
+1754,0,Other company,restaurant,0,40,1249.65
+1755,0,Other company,hotel,0,5,81.33
+1757,0,Other company,restaurant,1,7,74.59
+1759,0,Other company,public parking lot,1,13,245.89000000000001
+1760,0,Other company,apartment,0,4,149.41
+1761,0,Other company,apartment,0,1,6.22
+1762,0,Other company,public area,1,12,200.47
+1763,0,Other company,public area,1,26,563.01
+1764,0,Other company,hotel,0,6,64.09
+1765,0,Other company,public institution,0,8,222.70000000000002
+1766,0,Other company,public institution,0,30,933.1
+1767,0,Other company,market,1,6,96.36
+1768,0,Other company,public area,1,9,69.08
+1773,0,Other company,public institution,1,7,150.89000000000001
+1779,0,Other company,apartment,0,1,60.96
+1780,0,Other company,public parking lot,1,11,385.93
+1781,0,Other company,restaurant,1,1,31.82
+1782,0,Other company,market,0,15,325.08
+1783,0,Other company,restaurant,0,7,140.66
+1784,0,Other company,apartment,0,36,480.15
+1785,0,Other company,apartment,0,52,710.95
+1786,0,Other company,apartment,0,4,69.75
+1787,0,Other company,apartment,0,92,1100.44
+1788,0,Other company,apartment,0,3,72.00999999999999
+1789,0,Other company,apartment,0,7,139.85
+1790,0,Other company,public parking lot,0,7,99.81
+1791,1,Own company,public area,0,3,76.94
+1793,0,Other company,public institution,1,4,82.59
+1794,0,Other company,golf,0,4,108.03
+1797,0,Other company,sightseeing,1,7,54.95
+1800,0,Other company,public area,1,4,136.6
+1801,0,Other company,public area,1,5,101.78
+1802,0,Other company,public parking lot,1,1,44.55
+1803,0,Other company,public institution,1,4,29.21
+1804,0,Other company,public area,0,52,644.6
+1805,0,Other company,sightseeing,1,2,21.05
+1806,0,Other company,resort,0,1,10.15
+1807,0,Other company,resort,0,1,2.2
+1808,0,Other company,resort,0,1,3.28
+1811,0,Other company,public area,1,63,1018.53
+1812,0,Other company,public area,0,4,28.85
+1813,0,Other company,public area,1,39,462.0
+1814,0,Other company,apartment,0,18,904.57
+1815,0,Other company,public area,0,2,13.6
+1816,0,Other company,apartment,0,3,91.41000000000001
+1817,0,Other company,company,1,9,260.1
+1818,0,Other company,public institution,0,29,285.3
+1819,0,Other company,public institution,0,10,58.4
+1820,0,Other company,public area,0,3,19.7
+1821,0,Other company,public institution,0,4,13.6
+1822,0,Other company,company,0,2,46.92
+1823,0,Other company,public institution,0,4,15.4
+1824,0,Other company,public parking lot,0,3,44.03
+1825,0,Other company,golf,0,7,162.15
+1827,0,Other company,public parking lot,1,15,368.13
+1828,0,Other company,restaurant,0,9,49.49
+1829,0,Other company,hotel,0,7,46.839999999999996
+1830,0,Other company,resort,0,11,186.2
+1831,0,Other company,sightseeing,0,7,29.14
+1832,0,Other company,public institution,0,1,6.8
+1833,0,Other company,apartment,0,9,185.60999999999999
+1834,0,Other company,apartment,0,15,385.23
+1835,0,Other company,apartment,0,3,62.620000000000005
+1836,0,Other company,hotel,0,1,51.31
+1837,0,Other company,apartment,0,3,57.89
+1838,0,Other company,apartment,0,2,34.2
+1839,0,Other company,public parking lot,1,2,50.69
+1840,0,Other company,apartment,0,1,27.3
+1842,0,Other company,sightseeing,1,2,50.04
+1843,0,Other company,sightseeing,0,1,3.14
+1844,0,Other company,apartment,0,5,172.97
+1845,0,Other company,company,0,1,37.64
+1846,0,Other company,golf,0,6,138.01
+1847,0,Other company,public institution,0,2,4.5
+1848,0,Other company,public parking lot,1,11,219.91
+1849,0,Other company,market,1,12,210.73000000000002
+1851,0,Other company,public area,0,25,193.78
+1852,0,Other company,apartment,0,11,262.5
+1853,0,Other company,apartment,0,14,229.9
+1854,0,Other company,company,1,7,124.57000000000001
+1855,0,Other company,public parking lot,0,1,11.19
+1856,0,Other company,company,1,1,27.53
+1857,0,Other company,public area,1,5,66.99000000000001
+1858,0,Other company,public parking lot,1,1,42.4
+1859,0,Other company,resort,1,6,116.88
+1860,0,Other company,public institution,1,13,579.58
+1861,0,Other company,public area,1,3,39.49
+1862,0,Other company,public area,0,6,101.5
+1863,0,Other company,apartment,0,1,49.2
+1864,0,Other company,apartment,0,3,176.11
+1865,0,Other company,apartment,0,1,65.1
+1866,0,Other company,apartment,0,4,25.34
+1867,0,Other company,apartment,0,2,10.260000000000002
+1868,0,Other company,public parking lot,1,2,35.95
+1871,0,Other company,hotel,1,13,128.1
+1873,0,Other company,restaurant,0,9,46.48
+1876,0,Other company,apartment,1,20,945.91
+1877,0,Other company,public area,0,3,19.9
+1878,0,Other company,public area,1,1,31.45
+1879,0,Other company,public area,1,8,150.67
+1880,0,Other company,apartment,0,1,8.68
+1881,0,Other company,public area,1,4,70.17999999999999
+1882,0,Other company,public area,0,20,178.55
+1883,0,Other company,public area,0,9,44.35
+1884,0,Other company,public institution,1,1,34.55
+1885,0,Other company,public institution,1,1,8.95
+1886,0,Other company,public area,0,1,40.61
+1889,0,Other company,sightseeing,0,4,53.849999999999994
+1891,0,Other company,public area,0,23,26.830000000000002
+1892,0,Other company,public parking lot,0,10,68.67
+1893,0,Other company,company,0,3,59.72
+1897,0,Other company,public area,1,9,155.1
+1898,0,Other company,public area,1,5,124.86
+1901,0,Other company,restaurant,0,1,6.67
+1902,0,Other company,apartment,0,2,7.76
+1903,0,Other company,public institution,0,1,0.1
+1904,0,Other company,company,0,5,31.29
+1905,0,Other company,public institution,0,3,36.8
+1906,0,Other company,apartment,0,4,39.72
+1911,0,Other company,public institution,1,9,189.22
+1912,0,Other company,public institution,1,32,715.59
+1913,0,Other company,public institution,1,9,207.63
+1914,0,Other company,public parking lot,1,4,122.28
+1915,0,Other company,public institution,1,4,74.42
+1916,0,Other company,sightseeing,0,1,1.07
+1917,0,Other company,public area,1,3,20.33
+1918,0,Other company,public institution,1,3,2.03
+1919,0,Other company,public parking lot,1,88,1406.89
+1920,0,Other company,public institution,1,11,241.38
+1921,0,Other company,apartment,1,1,8.01
+1922,0,Other company,public parking lot,1,13,654.58
+1923,0,Other company,public parking lot,1,9,257.92
+1924,0,Other company,apartment,0,3,102.78999999999999
+1925,0,Other company,apartment,1,9,237.29000000000002
+1926,0,Other company,public parking lot,0,18,954.03
+1927,0,Other company,hotel,1,1,26.09
+1928,0,Other company,apartment,0,2,55.56
+1929,0,Other company,public parking lot,0,13,756.5600000000001
+1930,0,Other company,public area,1,4,61.42
+1931,0,Other company,public parking lot,1,10,191.61
+1932,0,Other company,public parking lot,1,2,56.73
+1933,0,Other company,public institution,0,2,6.0
+1934,0,Other company,public area,0,8,106.1
+1935,0,Other company,public area,1,2,51.36
+1936,0,Other company,public area,1,3,35.5
+1937,0,Other company,public institution,1,5,17.61
+1938,0,Other company,public parking lot,1,1,7.91
+1939,0,Other company,restaurant,0,1,6.06
+1942,0,Other company,apartment,0,1,39.3
+1943,0,Other company,apartment,0,2,46.900000000000006
+1944,0,Other company,public institution,0,4,38.1
+1945,0,Other company,public area,0,4,28.080000000000002
+1946,0,Other company,apartment,0,1,6.28
+1947,0,Other company,resort,0,2,11.46
+1948,0,Other company,sightseeing,1,4,48.69
+1949,0,Other company,restaurant,1,2,70.67
+1950,0,Other company,public area,0,27,231.7
+1951,0,Other company,public area,0,4,43.989999999999995
+1952,0,Other company,apartment,0,5,49.0
+1953,0,Other company,apartment,0,16,147.6
+1954,0,Other company,public institution,1,14,371.68
+1955,0,Other company,public institution,1,1,47.35
+1958,0,Other company,company,0,3,22.36
+1962,0,Other company,public institution,1,2,10.42
+1963,0,Other company,public institution,1,3,55.82
+1964,0,Other company,public area,0,5,34.6
+1966,0,Other company,apartment,0,3,49.94
+1967,0,Other company,apartment,0,9,115.37
+1968,0,Other company,apartment,0,7,108.78
+1969,0,Other company,hotel,0,26,227.97
+1970,0,Other company,apartment,0,14,478.44
+1971,0,Other company,public institution,1,23,533.77
+1972,0,Other company,public area,1,44,732.69
+1973,0,Other company,public area,1,5,127.36
+1975,0,Other company,golf,0,4,30.72
+1976,0,Other company,public area,0,1,17.51
+1977,0,Other company,public institution,0,1,10.1
+1978,0,Other company,public institution,0,9,73.3
+1979,0,Other company,public institution,1,1,30.92
+1980,0,Other company,public institution,1,3,61.01
+1981,0,Other company,public institution,1,6,84.69
+1982,0,Other company,golf,1,10,79.14
+1983,0,Other company,public area,0,9,59.13
+1984,0,Other company,public institution,0,1,10.55
+1985,0,Other company,restaurant,0,1,2.86
+1989,0,Other company,restaurant,1,3,92.75
+1990,0,Other company,sightseeing,1,1,29.7
+1991,1,Own company,public area,0,9,145.09
+1992,0,Other company,resort,0,10,61.47
+1995,0,Other company,market,1,2,72.27
+1997,0,Other company,sightseeing,0,5,34.32
+1998,0,Other company,resort,0,3,34.230000000000004
+1999,0,Other company,public area,1,65,1341.48
+2000,0,Other company,public institution,1,2,38.07
+2001,0,Other company,apartment,0,2,25.89
+2002,0,Other company,public institution,1,3,49.91
+2003,0,Other company,public area,1,7,193.29
+2004,0,Other company,public area,1,1,20.89
+2005,0,Other company,public area,1,1,30.35
+2006,0,Other company,restaurant,0,2,0.05
+2007,0,Other company,public parking lot,1,6,95.32
+2008,0,Other company,public institution,1,7,92.0
+2009,0,Other company,public area,0,1,0.1
+2010,0,Other company,public area,1,2,41.51
+2011,0,Other company,public institution,1,3,60.78
+2012,0,Other company,company,1,8,293.78
+2013,0,Other company,public area,1,4,85.91
+2014,0,Other company,public institution,1,5,47.31
+2015,0,Other company,public institution,0,22,546.6
+2016,0,Other company,public area,1,15,236.21
+2017,0,Other company,market,0,4,7.71
+2018,0,Other company,public area,0,8,190.0
+2019,0,Other company,public area,1,7,163.18
+2020,0,Other company,public parking lot,1,6,93.26
+2021,0,Other company,sightseeing,0,3,18.4
+2022,0,Other company,public parking lot,1,3,65.7
+2023,0,Other company,hotel,0,5,103.31
+2024,0,Other company,sightseeing,0,5,22.9
+2025,0,Other company,apartment,1,3,81.76
+2027,0,Other company,restaurant,0,4,12.43
+2028,0,Other company,apartment,0,2,9.549999999999999
+2029,0,Other company,public parking lot,0,1,4.3
+2030,0,Other company,apartment,0,1,4.97
+2031,0,Other company,apartment,0,6,137.47
+2032,0,Other company,hotel,0,17,137.39
+2033,0,Other company,restaurant,0,4,22.48
+2034,0,Other company,apartment,0,2,6.1899999999999995
+2035,0,Other company,restaurant,0,2,6.699999999999999
+2036,0,Other company,company,0,1,3.7
+2037,0,Other company,public institution,0,1,3.3
+2038,0,Other company,apartment,0,1,1.57
+2039,0,Other company,sightseeing,0,1,2.73
+2040,0,Other company,sightseeing,1,2,93.71000000000001
+2042,0,Other company,public area,0,4,28.44
+2043,0,Other company,market,1,3,25.52
+2044,0,Other company,market,0,3,7.2
+2045,0,Other company,public area,1,5,74.36
+2046,0,Other company,public area,0,35,522.2
+2048,0,Other company,apartment,0,7,173.66
+2049,0,Other company,apartment,0,7,142.58
+2050,0,Other company,apartment,1,4,59.68
+2051,0,Other company,restaurant,1,13,191.24
+2052,0,Other company,market,1,2,14.32
+2053,0,Other company,hotel,0,2,8.8
+2055,0,Other company,sightseeing,1,2,49.77
+2056,0,Other company,bus garage,1,1,8.21
+2058,0,Other company,company,1,1,39.45
+2059,0,Other company,apartment,0,81,425.15999999999997
+2060,0,Other company,apartment,0,50,308.68
+2061,0,Other company,sightseeing,0,3,28.45
+2062,0,Other company,public area,0,6,24.55
+2063,0,Other company,sightseeing,0,1,11.48
+2064,0,Other company,public area,0,13,92.23
+2065,0,Other company,apartment,1,6,112.39
+2066,0,Other company,public institution,1,8,225.36
+2067,0,Other company,apartment,1,1,29.23
+2068,1,Own company,golf,0,89,1376.29
+2071,0,Other company,public area,1,2,13.98
+2072,0,Other company,market,1,2,62.35
+2073,0,Other company,apartment,0,1,2.07
+2075,0,Other company,public parking lot,1,2,19.72
+2076,0,Other company,public area,1,8,135.67000000000002
+2077,0,Other company,market,1,8,151.05
+2078,0,Other company,public institution,1,2,20.75
+2079,0,Other company,company,1,4,38.61
+2080,0,Other company,apartment,1,5,106.36
+2081,0,Other company,apartment,0,4,72.85
+2082,0,Other company,apartment,0,2,25.25
+2083,0,Other company,resort,0,14,126.66
+2084,0,Other company,public area,1,10,160.91
+2085,0,Other company,apartment,1,2,63.440000000000005
+2086,0,Other company,public area,1,12,162.31
+2087,0,Other company,resort,0,10,116.64999999999999
+2088,0,Other company,resort,0,2,37.69
+2095,0,Other company,apartment,1,39,936.09
+2096,0,Other company,apartment,0,8,71.5
+2097,0,Other company,apartment,0,1,11.6
+2098,0,Other company,apartment,0,1,11.04
+2099,0,Other company,apartment,0,2,20.53
+2100,0,Other company,apartment,0,1,9.25
+2101,0,Other company,apartment,0,4,27.5
+2102,0,Other company,public institution,0,2,56.53
+2106,0,Other company,restaurant,0,5,33.59
+2108,0,Other company,public area,1,1,24.44
+2109,0,Other company,public institution,0,3,8.11
+2110,0,Other company,public area,0,1,9.96
+2111,0,Other company,apartment,0,2,79.9
+2112,0,Other company,resort,0,3,132.46
+2113,0,Other company,resort,0,2,82.6
+2114,0,Other company,resort,0,20,237.04
+2115,0,Other company,apartment,1,18,202.13
+2116,0,Other company,public institution,1,1,24.91
+2117,0,Other company,hotel,0,2,32.41
+2120,0,Other company,restaurant,0,5,19.42
+2121,0,Other company,public parking lot,0,7,104.45
+2125,0,Other company,apartment,1,4,120.8
+2126,0,Other company,public area,0,12,50.5
+2129,0,Other company,hotel,1,2,20.3
+2132,0,Other company,hotel,0,2,13.360000000000001
+2135,0,Other company,sightseeing,0,7,36.09
+2136,0,Other company,apartment,0,27,138.5
+2137,0,Other company,public institution,0,10,75.91
+2138,0,Other company,apartment,0,3,30.61
+2139,0,Other company,apartment,0,3,27.29
+2140,0,Other company,restaurant,0,1,9.86
+2141,0,Other company,apartment,0,6,306.09999999999997
+2142,0,Other company,restaurant,0,4,29.46
+2143,0,Other company,resort,0,3,32.45
+2144,0,Other company,public area,0,3,29.21
+2145,0,Other company,hotel,0,1,8.95
+2146,0,Other company,hotel,0,2,15.47
+2147,0,Other company,public institution,0,2,22.799999999999997
+2148,0,Other company,public area,1,7,90.32
+2149,0,Other company,public institution,1,2,22.92
+2150,0,Other company,public institution,1,5,117.16
+2152,0,Other company,public area,0,12,109.0
+2154,0,Other company,restaurant,0,1,1.36
+2155,0,Other company,resort,0,3,31.549999999999997
+2156,0,Other company,public institution,0,1,3.0
+2157,0,Other company,company,0,1,1.01
+2158,0,Other company,public institution,0,1,4.2
+2159,0,Other company,restaurant,0,1,5.71
+2160,0,Other company,apartment,0,1,25.9
+2161,0,Other company,resort,0,1,23.31
+2162,0,Other company,resort,0,21,374.39
+2163,0,Other company,restaurant,0,1,5.4
+2164,1,Own company,public area,0,67,753.88
+2165,0,Other company,company,0,2,10.35
+2167,0,Other company,public area,1,3,49.17
+2169,0,Other company,sightseeing,0,2,19.04
+2173,0,Other company,public area,1,7,89.85
+2176,0,Other company,public institution,0,1,10.5
+2177,0,Other company,restaurant,0,1,5.86
+2178,0,Other company,public institution,0,1,8.8
+2179,0,Other company,public institution,0,2,12.0
+2181,0,Other company,company,1,3,67.35
+2183,0,Other company,public parking lot,0,3,63.14
+2186,0,Other company,public institution,0,1,0.4
+2191,0,Other company,hotel,0,8,116.61
+2192,0,Other company,restaurant,0,2,15.27
+2193,0,Other company,public parking lot,0,2,68.03
+2194,0,Other company,restaurant,1,1,8.64
+2195,0,Other company,public area,1,1,7.98
+2200,0,Other company,public area,1,30,525.68
+2201,0,Other company,public area,1,1,6.48
+2202,0,Other company,public parking lot,1,1,10.49
+2205,1,Own company,restaurant,0,3,14.29
+2206,0,Other company,apartment,0,21,357.4
+2207,0,Other company,apartment,0,7,130.20000000000002
+2208,0,Other company,public parking lot,1,8,132.02
+2209,0,Other company,market,1,4,18.5
+2210,0,Other company,public area,1,2,72.56
+2211,0,Other company,public institution,1,1,12.4
+2218,0,Other company,market,0,7,22.39
+2223,0,Other company,company,1,3,89.66
+2224,0,Other company,public area,1,2,31.089999999999996
+2227,0,Other company,golf,0,1,2.82
+2228,0,Other company,public parking lot,1,29,521.41
+2229,0,Other company,market,1,20,536.02
+2230,0,Other company,restaurant,0,9,59.29
+2231,0,Other company,company,1,2,72.64
+2232,0,Other company,public parking lot,1,2,55.78
+2236,0,Other company,restaurant,0,1,4.1
+2240,0,Other company,public institution,1,2,29.36
+2245,0,Other company,public area,0,4,44.24
+2250,0,Other company,public parking lot,1,3,29.3
+2255,0,Other company,public institution,0,11,95.9
+2260,0,Other company,apartment,0,2,34.760000000000005
+2264,0,Other company,company,0,3,16.99
+2268,0,Other company,market,1,2,34.07
+2271,0,Other company,hotel,0,1,2.12
+2272,0,Other company,market,1,1,51.69
+2279,0,Other company,apartment,0,6,90.9
+2280,0,Other company,apartment,0,1,28.2
+2281,0,Other company,restaurant,0,3,37.97
+2282,0,Other company,sightseeing,1,3,105.12
+2284,1,Own company,company,0,29,220.24
+2285,0,Other company,company,0,6,33.07
+2286,0,Other company,resort,0,10,134.3
+2288,0,Other company,public institution,0,2,30.25
+2292,0,Other company,resort,0,6,64.24
+2294,0,Other company,public parking lot,1,4,85.09
+2295,0,Other company,public area,0,1,19.33
+2296,0,Other company,public institution,1,1,50.13
+2297,0,Other company,sightseeing,1,1,47.47
+2298,0,Other company,market,1,5,123.03999999999999
+2300,0,Other company,public institution,0,11,232.1
+2301,0,Other company,public institution,0,6,102.5
+2302,0,Other company,apartment,0,3,44.239999999999995
+2303,0,Other company,apartment,0,15,210.64000000000001
+2304,0,Other company,apartment,0,2,22.52
+2306,0,Other company,resort,0,21,179.86
+2307,0,Other company,public area,0,2,51.0
+2308,0,Other company,apartment,0,57,610.72
+2311,0,Other company,apartment,0,10,92.8
+2312,0,Other company,company,0,3,19.5
+2313,0,Other company,public institution,1,3,41.14
+2314,0,Other company,apartment,1,3,60.12
+2315,0,Other company,public institution,1,21,392.94
+2316,0,Other company,market,1,3,154.13
+2317,0,Other company,public institution,1,1,5.1
+2318,0,Other company,sightseeing,1,3,58.81
+2319,0,Other company,apartment,1,1,26.01
+2320,0,Other company,market,1,8,55.99
+2321,0,Other company,public area,1,1,6.1
+2323,0,Other company,public area,0,25,409.99
+2324,0,Other company,public area,0,12,133.14000000000001
+2325,0,Other company,public institution,1,13,115.78
+2326,0,Other company,sightseeing,1,7,62.69
+2327,0,Other company,market,1,4,71.15
+2329,0,Other company,apartment,0,3,6.279999999999999
+2332,0,Other company,hotel,0,5,47.6
+2334,0,Other company,public institution,0,1,23.8
+2336,0,Other company,public parking lot,1,4,137.64
+2340,0,Other company,restaurant,0,2,7.53
+2341,0,Other company,public area,1,1,5.0
+2342,0,Other company,public parking lot,1,2,43.410000000000004
+2343,0,Other company,camping,1,1,60.45
+2344,0,Other company,restaurant,0,1,12.94
+2345,0,Other company,restaurant,0,1,10.88
+2346,0,Other company,public area,0,2,21.36
+2347,0,Other company,restaurant,0,2,12.040000000000001
+2348,0,Other company,public parking lot,1,2,43.44
+2349,0,Other company,public institution,1,1,3.55
+2350,0,Other company,apartment,1,1,12.28
+2356,0,Other company,sightseeing,1,4,65.89
+2357,0,Other company,company,0,1,3.01
+2358,0,Other company,company,0,2,7.27
+2359,0,Other company,public parking lot,0,3,23.12
+2360,0,Other company,sightseeing,0,5,25.14
+2362,0,Other company,public institution,0,9,105.3
+2368,0,Other company,public institution,0,1,10.78
+2369,0,Other company,restaurant,0,1,5.68
+2371,0,Other company,market,1,3,14.350000000000001
+2372,0,Other company,apartment,1,2,37.349999999999994
+2373,0,Other company,public institution,0,1,0.3
+2375,0,Other company,public institution,0,4,22.42
+2376,0,Other company,company,0,1,3.23
+2377,0,Other company,public parking lot,1,4,65.07
+2378,0,Other company,company,0,1,9.72
+2379,0,Other company,public institution,0,3,21.0
+2381,0,Other company,public institution,1,1,10.04
+2383,0,Other company,resort,1,3,78.89
+2384,0,Other company,resort,0,1,6.59
+2385,0,Other company,restaurant,0,1,4.55
+2389,0,Other company,apartment,0,34,948.89
+2390,0,Other company,apartment,0,11,336.21
+2391,0,Other company,hotel,0,5,47.69
+2392,0,Other company,resort,0,1,5.08
+2395,0,Other company,apartment,0,32,1507.78
+2396,0,Other company,sightseeing,1,12,225.03
+2405,0,Other company,public area,0,3,29.6
+2406,0,Other company,resort,0,3,25.47
+2407,0,Other company,resort,0,1,3.3
+2409,0,Other company,restaurant,0,2,10.3
+2411,0,Other company,public institution,0,9,90.84
+2413,0,Other company,public institution,1,1,13.98
+2414,0,Other company,apartment,1,9,156.02
+2418,0,Other company,apartment,0,1,5.72
+2425,0,Other company,public area,1,18,587.69
+2426,0,Other company,public institution,0,47,955.3
+2429,0,Other company,hotel,0,1,10.88
+2431,0,Other company,apartment,0,35,339.98
+2432,0,Other company,apartment,0,2,21.72
+2433,0,Other company,sightseeing,0,4,44.150000000000006
+2436,0,Other company,golf,0,4,181.55
+2438,0,Other company,public institution,1,1,8.82
+2439,0,Other company,sightseeing,0,2,32.8
+2445,0,Other company,market,0,1,0.75
+2446,0,Other company,restaurant,0,1,3.16
+2447,0,Other company,public institution,1,11,270.18
+2448,0,Other company,resort,0,3,29.86
+2449,0,Other company,apartment,0,1,17.76
+2450,0,Other company,apartment,1,2,39.25
+2452,0,Other company,public area,1,1,10.46
+2454,0,Other company,apartment,0,2,35.89
+2455,0,Other company,apartment,0,1,36.32
+2456,0,Other company,sightseeing,1,1,23.44
+2457,0,Other company,apartment,0,2,42.72
+2458,0,Other company,public institution,1,3,36.959999999999994
+2460,0,Other company,public institution,1,2,34.04
+2461,0,Other company,public area,1,4,55.300000000000004
+2464,0,Other company,apartment,0,1,13.8
+2466,0,Other company,resort,1,1,28.55
+2472,0,Other company,apartment,0,1,3.19
+2473,0,Other company,resort,0,1,7.21
+2474,0,Other company,apartment,0,4,22.57
+2475,0,Other company,restaurant,0,5,47.45
+2478,0,Other company,hotel,0,1,45.99
+2479,0,Other company,company,0,2,13.75
+2482,0,Other company,hotel,0,2,12.61
+2483,0,Other company,hotel,0,1,6.04
+2484,0,Other company,hotel,0,1,15.69
+2485,0,Other company,sightseeing,1,9,98.34
+2486,0,Other company,company,0,1,3.3
+2488,0,Other company,public area,1,25,848.46
+2489,0,Other company,public institution,0,1,5.78
+2492,0,Other company,company,0,1,30.36
+2494,1,Own company,resort,0,2,15.0
+2497,0,Other company,sightseeing,1,4,88.18
+2499,0,Other company,public institution,0,18,269.51
+2500,0,Other company,public institution,0,1,1.0
+2501,0,Other company,public institution,0,14,359.3
+2502,0,Other company,public institution,1,1,19.9
+2503,0,Other company,hotel,0,16,146.34
+2504,0,Other company,market,0,11,409.39
+2505,0,Other company,accommodation,0,134,4517.25
+2506,0,Other company,company,1,1,2.32
+2507,0,Other company,hotel,1,1,45.8
+2509,0,Other company,public area,0,2,8.24
+2517,0,Other company,restaurant,0,3,65.00999999999999
+2518,0,Other company,apartment,0,44,670.0699999999999
+2519,0,Other company,public area,1,2,39.129999999999995
+2529,0,Other company,apartment,0,1,42.4
+2532,0,Other company,sightseeing,1,1,6.02
+2533,0,Other company,sightseeing,1,1,38.24
+2537,0,Other company,public institution,0,1,22.9
+2538,0,Other company,apartment,0,1,0.37
+2539,0,Other company,public institution,0,1,23.8
+2540,0,Other company,public institution,0,5,132.4
+2541,0,Other company,hotel,0,1,0.64
+2543,0,Other company,apartment,0,1,34.48
+2544,0,Other company,apartment,0,7,72.65
+2547,0,Other company,sightseeing,1,2,33.519999999999996
+2552,0,Other company,apartment,0,1,21.75
+2553,0,Other company,sightseeing,1,2,9.08
+2554,0,Other company,apartment,0,1,13.36
+2555,0,Other company,public institution,1,2,55.82
+2556,0,Other company,public institution,0,2,0.4
+2560,0,Other company,company,0,1,10.0
+2561,0,Other company,apartment,0,1,8.65
+2569,0,Other company,company,0,4,31.09
+2570,0,Other company,apartment,0,8,97.28
+2572,0,Other company,apartment,0,1,25.64
+2573,0,Other company,apartment,0,1,8.53
+2574,0,Other company,apartment,1,2,41.41
+2575,0,Other company,apartment,1,2,56.09
+2576,0,Other company,public institution,0,2,31.5
+2577,0,Other company,public institution,0,4,134.8
+2578,0,Other company,public institution,0,1,4.6
+2579,0,Other company,public institution,0,2,31.9
+2580,0,Other company,public institution,0,2,44.3
+2581,0,Other company,apartment,1,28,236.37
+2582,0,Other company,apartment,1,3,24.25
+2583,0,Other company,apartment,0,1,6.06
+2584,0,Other company,company,0,2,11.96
+2585,0,Other company,public area,1,1,48.05
+2587,0,Other company,sightseeing,1,7,174.88
+2592,0,Other company,public area,0,1,3.71
+2593,0,Other company,restaurant,0,2,6.51
+2594,0,Other company,public parking lot,1,3,35.11
+2597,0,Other company,public institution,1,2,57.989999999999995
+2601,0,Other company,company,1,1,7.01
+2602,0,Other company,apartment,1,2,58.86
+2605,0,Other company,apartment,0,9,109.30000000000001
+2606,0,Other company,apartment,0,15,145.57
+2607,0,Other company,market,1,2,73.47
+2608,0,Other company,restaurant,0,1,18.83
+2609,0,Other company,apartment,0,37,408.74
+2611,0,Other company,public institution,0,1,11.7
+2612,0,Other company,public institution,0,1,10.2
+2613,0,Other company,apartment,0,1,11.14
+2616,0,Other company,sightseeing,1,1,1.76
+2617,0,Other company,public area,1,1,7.51
+2619,0,Other company,public area,1,1,46.53
+2621,0,Other company,public parking lot,1,2,49.54
+2629,0,Other company,public institution,0,1,8.7
+2630,0,Other company,apartment,0,1,12.3
+2647,0,Other company,apartment,0,2,22.28
+2649,0,Other company,public institution,0,1,0.5
+2670,0,Other company,sightseeing,1,2,28.73
+2671,0,Other company,company,1,2,7.47

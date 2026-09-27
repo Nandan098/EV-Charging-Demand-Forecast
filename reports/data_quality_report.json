@@ -1,0 +1,9 @@
+{
+  "raw_rows": 72856,
+  "clean_rows": 72839,
+  "rows_removed": 17,
+  "negative_duration_rows": 17,
+  "duplicate_rows": 13,
+  "date_min": "2021-09-30 17:14:00",
+  "date_max": "2022-09-30 23:11:00"
+}

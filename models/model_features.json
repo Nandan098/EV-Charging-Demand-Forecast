@@ -1,0 +1,33 @@
+{
+  "feature_columns": [
+    "Hour",
+    "DayOfWeek",
+    "Month",
+    "IsWeekend",
+    "HourSin",
+    "HourCos",
+    "Lag1hKWh",
+    "Lag24hKWh",
+    "Lag168hKWh",
+    "Rolling24hKWh",
+    "Rolling168hKWh",
+    "Location_accommodation",
+    "Location_apartment",
+    "Location_bus garage",
+    "Location_camping",
+    "Location_company",
+    "Location_golf",
+    "Location_hotel",
+    "Location_market",
+    "Location_public area",
+    "Location_public institution",
+    "Location_public parking lot",
+    "Location_resort",
+    "Location_restaurant",
+    "Location_sightseeing"
+  ],
+  "target": "TotalDemandKWh",
+  "categorical": [
+    "Location"
+  ]
+}

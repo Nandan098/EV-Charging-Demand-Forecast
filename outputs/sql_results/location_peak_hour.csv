@@ -1,0 +1,15 @@
+Location,Hour,demand_kwh
+apartment,18,32611.54
+resort,20,22246.16
+public area,17,20116.91
+hotel,18,14472.79
+company,17,11956.88
+public institution,8,11590.96
+market,8,6205.05
+camping,19,5349.89
+restaurant,19,4891.33
+public parking lot,17,4537.56
+accommodation,21,2864.42
+sightseeing,14,1871.13
+golf,7,1601.72
+bus garage,8,163.34

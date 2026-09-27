@@ -1,0 +1,28 @@
+Project build summary
+
+Raw rows: 72,856
+Clean rows: 72,839
+Removed rows: 17
+Locations: 14
+Chargers: 2,118
+Users: 2,337
+
+Model target: hourly TotalDemandKWh by Location
+Train: 2021-10-07 17:00:00 -> 2022-08-31 23:00:00
+Test: 2022-09-01 00:00:00 -> 2022-10-01 00:00:00
+
+XGBoost metrics:
+{
+  "MAE": 10.540432173330606,
+  "RMSE": 18.50280961239677,
+  "R2": 0.37578211060228284,
+  "MAPE_nonzero_pct": 391.2416715972084
+}
+
+Baseline metrics:
+{
+  "MAE": 12.690229839508618,
+  "RMSE": 25.541124755858604,
+  "R2": -0.18943547574126307,
+  "MAPE_nonzero_pct": 347.6490426858361
+}

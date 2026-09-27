@@ -1,0 +1,43 @@
+{
+  "target": "Hourly total charging demand (kWh) by location",
+  "cv": {
+    "method": "RandomizedSearchCV + TimeSeriesSplit",
+    "n_splits": 3,
+    "n_iter": 10,
+    "scoring": "neg_mean_absolute_error",
+    "best_cv_mae": 10.240435379020136
+  },
+  "train_start": "2021-10-07 17:00:00",
+  "train_end": "2022-08-31 23:00:00",
+  "test_start": "2022-09-01 00:00:00",
+  "test_end": "2022-10-01 00:00:00",
+  "baseline_same_hour_last_week": {
+    "MAE": 12.69022983950862,
+    "RMSE": 25.541124755858604,
+    "R2": -0.18943547574126285,
+    "MAPE_nonzero_pct": 347.6490426858361
+  },
+  "xgboost_tuned_train": {
+    "MAE": 9.045189895457497,
+    "RMSE": 16.133113446128856,
+    "R2": 0.4827470627015149,
+    "MAPE_nonzero_pct": 322.44002171641836
+  },
+  "xgboost_tuned_test": {
+    "MAE": 10.398352552909895,
+    "RMSE": 18.2779218529273,
+    "R2": 0.39086369713335145,
+    "MAPE_nonzero_pct": 411.1845221232656
+  },
+  "best_params": {
+    "subsample": 0.8,
+    "reg_lambda": 5,
+    "reg_alpha": 0.5,
+    "n_estimators": 400,
+    "min_child_weight": 10,
+    "max_depth": 6,
+    "learning_rate": 0.03,
+    "gamma": 0,
+    "colsample_bytree": 0.7
+  }
+}

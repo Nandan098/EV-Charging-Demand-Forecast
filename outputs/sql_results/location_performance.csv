@@ -1,0 +1,15 @@
+Location,sessions,demand_kwh,avg_session_demand_kwh,avg_duration_min
+apartment,14038,263163.46,18.75,204.91
+public area,14082,252161.91,17.91,133.19
+resort,8854,153004.54,17.28,170.97
+hotel,8600,126462.14,14.7,146.85
+company,7558,122801.47,16.25,150.97
+public institution,7023,122195.41,17.4,120.24
+public parking lot,3396,58366.26,17.19,50.14
+market,2988,49320.74,16.51,97.44
+camping,1630,41606.22,25.53,243.63
+restaurant,2222,39580.76,17.81,156.57
+sightseeing,1203,18339.89,15.25,63.98
+golf,1029,17203.13,16.72,162.21
+accommodation,187,5433.44,29.06,267.28
+bus garage,29,829.04,28.59,30.62

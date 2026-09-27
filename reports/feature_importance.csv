@@ -1,0 +1,26 @@
+Feature,Importance
+Lag168hKWh,0.27166206
+Lag24hKWh,0.13983993
+Rolling168hKWh,0.12896715
+HourSin,0.0765425
+Hour,0.07005956
+Lag1hKWh,0.048352394
+Rolling24hKWh,0.043554064
+Location_apartment,0.041261274
+Location_public area,0.027936414
+Location_resort,0.020118244
+HourCos,0.019839305
+Location_hotel,0.019274823
+Location_public institution,0.019130867
+DayOfWeek,0.013614226
+IsWeekend,0.013168862
+Location_company,0.0087688835
+Location_market,0.008315532
+Location_public parking lot,0.007848253
+Month,0.0073382594
+Location_camping,0.006932206
+Location_restaurant,0.0030334038
+Location_sightseeing,0.0022862512
+Location_accommodation,0.0015991956
+Location_golf,0.000556361
+Location_bus garage,0.0

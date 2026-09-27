@@ -1,0 +1,44 @@
+-- Power BI measures for the project.
+-- No Date dimension is required. Use the Date/Hour fields already present in each fact table.
+
+Total Charging Sessions = SUM(fact_hourly_location_demand[SessionCount])
+
+Total Demand (kWh) = SUM(fact_hourly_location_demand[TotalDemandKWh])
+
+Avg Demand per Session (kWh) = DIVIDE([Total Demand (kWh)], [Total Charging Sessions])
+
+Avg Session Duration (min) = DIVIDE(
+    SUMX(
+        fact_hourly_location_demand,
+        fact_hourly_location_demand[AvgSessionDurationMin] * fact_hourly_location_demand[SessionCount]
+    ),
+    [Total Charging Sessions]
+)
+
+Forecast Demand (kWh) = SUM(model_predictions[PredictedDemandKWh])
+
+Actual Demand (Test) (kWh) = SUM(model_predictions[ActualDemandKWh])
+
+Forecast Absolute Error (kWh) = SUM(model_predictions[AbsoluteErrorKWh])
+
+Forecast MAE (kWh) = AVERAGEX(
+    model_predictions,
+    ABS(model_predictions[ActualDemandKWh] - model_predictions[PredictedDemandKWh])
+)
+
+Forecast RMSE (kWh) = SQRT(
+    AVERAGEX(
+        model_predictions,
+        POWER(model_predictions[ActualDemandKWh] - model_predictions[PredictedDemandKWh], 2)
+    )
+)
+
+Forecast MAPE (%) = AVERAGEX(
+    FILTER(model_predictions, model_predictions[ActualDemandKWh] <> 0),
+    DIVIDE(
+        ABS(model_predictions[ActualDemandKWh] - model_predictions[PredictedDemandKWh]),
+        model_predictions[ActualDemandKWh]
+    )
+) * 100
+
+Forecast Accuracy (%) = 100 - [Forecast MAPE (%)]
